@@ -3,7 +3,7 @@
 ## 分发包内容
 
 ```
-skills/qcc-copilot/
+src/qcc_copilot/skill/         Skill 文档（随 wheel 分发；qcc skill.export 导出）
   SKILL.md                     完整 Skill 指令与领域操作入口
   quickstart.md                成员快速开始
   lead-guide.md                负责人使用
@@ -37,7 +37,7 @@ docs/                          实施基线、验收报告、校准记录、发�
 | 渲染核验 | LibreOffice/soffice 或 macOS Quick Look | 否 | 渲染检查 `not_run/受限`，不标通过 |
 
 `pyproject.toml` 的 `dependencies=[]` 即"可锁定"配置：干净环境 `PYTHONPATH=src python3 -m qcc_copilot version` 即可运行；
-`optional-dependencies` 仅作环境适配记录。
+`optional-dependencies` 仅作环境适配记录。也可 `pip install qcc-copilot`（入口 `qcc`），Skill 文档随 wheel 在包内 `qcc_copilot/skill/`。
 
 ## 从新目录安装后的资源检查
 

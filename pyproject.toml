@@ -1,20 +1,37 @@
 [build-system]
-requires = ["setuptools>=68"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "qcc-copilot"
 version = "0.1.0"
 description = "面向软件研发团队的 QCC 赋能工具：确定性内核 + 可分发 Skill"
-requires-python = ">=3.11"
 readme = "README.md"
-license = { text = "Proprietary" }
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.11"
+authors = [{ name = "codeasier" }]
+keywords = ["qcc", "quality-control-circle", "dmaic", "pdca", "agent-skill", "cli"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+  "Topic :: Software Development :: Quality Assurance",
+]
 dependencies = []
 
 [project.optional-dependencies]
 pptx = ["python-pptx>=0.6.23"]
-render = []
-test = []
+
+[project.urls]
+Homepage = "https://github.com/codeasier/qcc-copilot"
+Repository = "https://github.com/codeasier/qcc-copilot"
+Issues = "https://github.com/codeasier/qcc-copilot/issues"
 
 [project.scripts]
 qcc = "qcc_copilot.cli:main"
@@ -26,4 +43,12 @@ package-dir = { "" = "src" }
 where = ["src"]
 
 [tool.setuptools.package-data]
-qcc_copilot = ["resources/*.json", "resources/schemas/*.json", "resources/methods/*.json", "resources/templates/*"]
+qcc_copilot = [
+  "resources/*.json",
+  "resources/schemas/*.json",
+  "resources/methods/*.json",
+  "resources/templates/*",
+  "skill/*.md",
+  "skill/*.json",
+  "skill/references/*.md",
+]

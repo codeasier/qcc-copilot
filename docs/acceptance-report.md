@@ -14,7 +14,7 @@
 | E05 | 已知输入可复算，含成本与负收益 | tests/fixtures/expected_values.json（独立参考值） | 计算底稿（公式/输入/单位/结果） | 40 次事件：10 小时毛 / 8 小时净 / 1 人天；成本 12 小时：-2 小时 / -0.25 人天 | gross=10.0, net=8.0, pd=1.0, neg_net=-2.0, neg_pd=-0.25 | 通过 | — |
 | E06 | 原因有相关性但缺验证，对策与原因脱节 | tests/fixtures/e06_reasoning.json | methods.check 论证断点 | 相关性不确认因果，对策脱节给补证建议 | causal_gaps=1, link_gaps=1 | 通过 | — |
 | E07 | 共性潜力但依赖个人环境 | tests/fixtures/e07_reuse.json | reuse.evaluate / adoption / count | 潜力与已推广分开，列明限制与接入要求，安装成功不等于收益验证 | installed_not_adopted=True, distinct_adopted=1, tool_usability_separate=True | 通过 | — |
-| E08 | 来源数据更新或人工修改后续接 | tests/fixtures/e08_update.json | evidence.invalidate / workspace.resume / 历史快照 | 恢复状态、保留修订、标记受影响结论需核验，历史交付保留原依据 | affected_calc=['calc-5efae3b49281'], basis_preserved=True, stale_marked=True, resumed=True | 通过 | — |
+| E08 | 来源数据更新或人工修改后续接 | tests/fixtures/e08_update.json | evidence.invalidate / workspace.resume / 历史快照 | 恢复状态、保留修订、标记受影响结论需核验，历史交付保留原依据 | affected_calc=['calc-32ccab12be87'], basis_preserved=True, stale_marked=True, resumed=True | 通过 | — |
 | E09 | 档案有缺口要求生成参评材料 | 草稿情境（核心主张无充分支持） | deliverable.compile / verify / status | 草稿明确标记缺口，核心结论不把未知写成已证实 | status=draft, blocked=True | 通过 | 真实负责人审阅（10.3，需人工） |
 | E10 | 生成报告、图表和 PPT，数字/引用一致，版式渲染检查有记录 | 固定课题快照（tests/fixtures/e05_benefit.json） | 完整文件包 + 真实 deck.pptx + check_record.json | 文件可打开、数字/引用一致；占位符/溢出/缺图/渲染检查有记录 | files=11, pptx_struct_ok=True, render=passed, placeholder_detected=failed | 通过 | — |
 | E11 | 多成员摘要含旧版本、重复课题和冲突 | tests/fixtures/e11_summaries.json | summary.aggregate / views | 按标识与版本汇总，陈旧与冲突可见，反馈可回流 | topic-A_rev=4, conflicts=1, invalid=2 | 通过 | — |
@@ -26,7 +26,7 @@
 - 计算使用 `tests/fixtures/expected_values.json` 的**独立参考值**（人工核算），不由产品自证。
 - 渲染核验：macOS Quick Look 独立打开成功仅证明可打开；缺 LibreOffice 时逐页版式渲染为未执行，不标通过。
 - 「未执行」列保留需人工或真实环境完成的部分：负责人校准、真实成员试点、其它宿主/平台。
-- 规划文档校验不等于产品运行通过；本表来自实际运行 `run_acceptance.py` 与 71 项单元测试。
+- 规划文档校验不等于产品运行通过；本表来自实际运行 `run_acceptance.py` 与 76 项单元测试。
 
 ## 覆盖矩阵
 

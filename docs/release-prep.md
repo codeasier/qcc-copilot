@@ -12,12 +12,12 @@
 | 方法规则 | `qcc-three-dimensions` v1.0（三维定性，无官方权重） |
 | 运行依赖 | Python >= 3.11 标准库，**零第三方依赖** |
 | 可选依赖 | `python-pptx`（未安装则用内置 stdlib OOXML）、LibreOffice/soffice 或 macOS Quick Look（渲染核验） |
-| 分发清单 | `skills/qcc-copilot/dist-manifest.json` |
+| 分发清单 | `src/qcc_copilot/skill/dist-manifest.json` |
 | 默认后台监听 | 无（按需调用） |
 
 ## 2. 支持矩阵
 
-见 `skills/qcc-copilot/references/support-matrix.md`。
+见 `src/qcc_copilot/skill/references/support-matrix.md`。
 
 - 已端到端验证：OpenCode + macOS(darwin) + CPython 3.14.6 + stdlib PPTX + Quick Look 渲染核验。
 - 部分受限：缺 LibreOffice 逐页版式渲染（Quick Look 仅证明可打开）；缺 python-pptx（改用内置生成器）。
@@ -27,7 +27,7 @@
 
 | 记录 | 位置 | 结果 |
 |---|---|---|
-| 单元/集成测试（71 项） | `tests/test_*.py` | 全部通过 |
+| 单元/集成测试（76 项） | `tests/test_*.py` | 全部通过 |
 | E01–E12 覆盖报告 | `docs/acceptance-report.md`（`tests/run_acceptance.py` 生成） | 12/12 工具行为符合预期 |
 | 真实 PPTX 独立打开核验 | E10 / `verify_outputs(render)` | macOS Quick Look 通过 |
 | 人工校准 | `docs/calibration-record.md` | **待真实负责人执行**（不代填） |
@@ -39,7 +39,7 @@
 
 | 交付物 | 对应能力 | 状态 |
 |---|---|---|
-| 可分发 Skill 包 | skill-workspace | 已实现（`skills/qcc-copilot/`） |
+| 可分发 Skill 包 | skill-workspace | 已实现（`src/qcc_copilot/skill/`，随 wheel 分发） |
 | 候选课题清单 | topic-discovery | 已实现（双入口、候选卡、去重） |
 | 持续课题档案 | skill-workspace / evidence-ledger | 已实现（版本、修订、续接、定向失效） |
 | 价值与推广材料 | benefit-accounting / reuse-assessment | 已实现（可复算底稿、复用说明） |
@@ -101,3 +101,19 @@
 
 **后续**：真实试点开展时补 10.3 书面结论与 §5 指标；补齐 5 项自动化测试后回归；
 新增规则、连接器、模板或协作方式另建 OpenSpec 变更，基于已建立的主规格做增量。
+
+## 8. PyPI 发布（0.1.0）
+
+| 项 | 值 |
+|---|---|
+| 包名 | `qcc-copilot`（`pip install qcc-copilot`，入口 `qcc`） |
+| 许可证 | MIT（`LICENSE`；`pyproject.toml` 使用 SPDX 表达式） |
+| 发布方式 | GitHub Actions + PyPI Trusted Publishing（`.github/workflows/publish.yml`） |
+| 触发 | 推送 `v*` 标签；tag 版本须与 `pyproject.toml` 的 `version` 一致 |
+| Skill 分发 | 随 wheel 打包在 `qcc_copilot/skill/`，`qcc skill.export` 导出到宿主目录 |
+
+**上线前人工步骤（只需一次）**：PyPI 账户启用 2FA；在 PyPI「Publishing」添加 pending publisher：
+项目名 `qcc-copilot`、GitHub owner `codeasier`、仓库 `qcc-copilot`、workflow `publish.yml`、environment `pypi`。
+
+> 同一版本号一旦上传不可覆盖；重发必须递增 `version` 并重新打 tag。发布前在干净环境验证
+> `pip install qcc-copilot`、`qcc capabilities`、`qcc skill.export`。

@@ -6,7 +6,7 @@
 
 | 宿主 | 系统 | 运行时 | 生成 | 独立渲染核验 | 范围 | 结果 |
 |---|---|---|---|---|---|---|
-| OpenCode（当前会话） | macOS / darwin | CPython 3.14.6，标准库 | 内置 stdlib OOXML PPTX | macOS Quick Look（Office 导入器） | 双入口 / 续接 / 计算 / 契约 / 证据 / 方法 / 推广 / 材料编译 / 真实 PPTX / 摘要聚合 / 反馈 / 端到端链路 | 已端到端验证（E01–E12、71 项单测） |
+| OpenCode（当前会话） | macOS / darwin | CPython 3.14.6，标准库 | 内置 stdlib OOXML PPTX | macOS Quick Look（Office 导入器） | 双入口 / 续接 / 计算 / 契约 / 证据 / 方法 / 推广 / 材料编译 / 真实 PPTX / 摘要聚合 / 反馈 / 端到端链路 | 已端到端验证（E01–E12、76 项单测） |
 
 - 该组合完成 `verify_outputs(run_render=true)` → `render.status=passed`，`deliverable.status` 可达 `review-ready`。
 - 默认按需调用，无后台扫描、提醒或常驻任务。

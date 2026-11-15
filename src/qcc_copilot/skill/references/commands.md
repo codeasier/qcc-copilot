@@ -1,6 +1,7 @@
 # 领域操作命令与输入契约（9.1）
 
-所有命令：`PYTHONPATH=<包>/src python3 -m qcc_copilot <command> [--input req.json | stdin] [--workspace <根>]`。
+所有命令：`PYTHONPATH=<包>/src python3 -m qcc_copilot <command> [--input req.json | stdin] [--workspace <根>]`；
+pip 安装后 `qcc` 等价于该入口。
 输出统一为 `{"ok":true,"command":...,"data":...}` 或 `{"ok":false,"command":...,"error":{"code","message","details"}}`。
 `--workspace` 会注入请求的 `workspace` 字段；多课题续接务必带 `topic_id`。
 
@@ -11,6 +12,7 @@
 | `version` / `capabilities` | — | 版本、依赖、受限步骤 |
 | `contract.types` | — | 全部契约类型 |
 | `contract.validate` | `type`, `object` | 校验通过或明确失败（缺标识/错类型/未知版本） |
+| `skill.export` | `dest`, `force?` | 把随包 Skill 文档导出到宿主目录（非空目录需 `force=true`） |
 
 ## 工作区与证据账本（2.x）
 

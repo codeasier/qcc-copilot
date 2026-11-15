@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from . import benefits, capability, contracts, deliverables, deliveries, discovery
-from . import evidence, methods, pptx, reuse, sources, summary
+from . import evidence, methods, pptx, reuse, skillpack, sources, summary
 from . import workspace as W
 from .errors import QccError
 
@@ -259,6 +259,10 @@ def cmd_capabilities(r):
     return capability.check()
 
 
+def cmd_skill_export(r):
+    return skillpack.export(_require(r, "dest"), bool(r.get("force", False)))
+
+
 HANDLERS = {
     "workspace.init": cmd_workspace_init,
     "workspace.list": cmd_workspace_list,
@@ -307,4 +311,5 @@ HANDLERS = {
     "feedback.export": cmd_feedback_export,
     "feedback.import": cmd_feedback_import,
     "capabilities": cmd_capabilities,
+    "skill.export": cmd_skill_export,
 }

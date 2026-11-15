@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
 
 from . import __version__
@@ -9,9 +10,14 @@ from .errors import QccError
 
 
 def _load_request(path):
-    if path:
-        with open(path, "r", encoding="utf-8") as fh:
-            return json.load(fh)
+    if path and path != "-":
+        if os.path.isfile(path):
+            with open(path, "r", encoding="utf-8") as fh:
+                return json.load(fh)
+        raw = path.strip()
+        if raw.startswith(("{", "[")):
+            return json.loads(raw)
+        raise QccError(f"input file not found: {path}")
     if not sys.stdin.isatty():
         raw = sys.stdin.read().strip()
         if raw:
@@ -21,9 +27,9 @@ def _load_request(path):
 
 def main(argv=None):
     parser = argparse.ArgumentParser(prog="qcc", description="qcc-copilot 确定性内核：结构化输入输出")
-    parser.add_argument("command", help="领域操作命令，见 skills/qcc-copilot/references/commands.md")
+    parser.add_argument("command", help="领域操作命令，见 src/qcc_copilot/skill/references/commands.md")
     parser.add_argument("--workspace", "-w", help="显式工作区根路径（.qcc 所在目录）")
-    parser.add_argument("--input", "-i", help="结构化请求 JSON 文件；缺省读 stdin 或空对象")
+    parser.add_argument("--input", "-i", help="结构化请求：JSON 文件路径、内联 JSON，或 - 读 stdin")
     parser.add_argument("--out", "-o", help="把结果 JSON 写入文件（仍打印到 stdout）")
     args = parser.parse_args(argv)
 

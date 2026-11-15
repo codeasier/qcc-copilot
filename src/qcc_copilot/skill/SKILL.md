@@ -16,12 +16,13 @@ version: "0.1.0"
 
 ## 0. 定位工具与当前工作区（不依赖全局配置）
 
-分发包自带 `src/qcc_copilot/` 与 `resources/`，无需新增模型账号、中心数据库或平台服务。
+分发包自带 `src/qcc_copilot/`（含随 wheel 分发的 `skill/` 文档）与 `resources/`，无需新增模型账号、中心数据库或平台服务。
 进入一次任务先做能力检查，并显式定位工作区：
 
 ```bash
 export QCC="PYTHONPATH=<包根目录>/src python3 -m qcc_copilot"   # 安装后可用 qcc
 $QCC capabilities
+$QCC skill.export --input '{"dest":"<宿主 skills 目录>/qcc-copilot"}'   # 导出 Skill 文档（非空目录需 force）
 $QCC workspace.list --input '{"workspace":"<项目根>"}'
 $QCC workspace.resume --input '{"workspace":"<项目根>","topic_id":"<课题标识，可选>"}'
 ```

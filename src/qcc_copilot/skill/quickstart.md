@@ -4,14 +4,24 @@
 
 ## 1. 安装 / 能力检查
 
-分发包为 `skills/qcc-copilot/`（Skill 指令 + 参考）与 `src/qcc_copilot/`（确定性工具 + 资源）。
-要求 Python >= 3.11；本内核**零第三方依赖**（pip 不可用亦可运行）。
+分发包为 `src/qcc_copilot/skill/`（Skill 指令 + 参考，随 wheel 分发）与 `src/qcc_copilot/`（确定性工具 + 资源）。
+要求 Python >= 3.11；本内核**零第三方依赖**。
 
 ```bash
+pip install qcc-copilot                 # 方式一：从 PyPI 安装，得到 qcc 命令
+# 方式二：源码运行（不安装）
 export QCC="PYTHONPATH=<包根目录>/src python3 -m qcc_copilot"
-$QCC version
-$QCC capabilities     # 列出可执行步骤与受限步骤（如渲染检查）
+qcc capabilities                        # 列出可执行步骤与受限步骤（如渲染检查）
 ```
+
+把 Skill 文档导出到宿主 skills 目录（pip 安装后）：
+
+```bash
+qcc skill.export --input '{"dest":"~/.config/opencode/skills/qcc-copilot"}'
+# 目标目录非空时报错；确认覆盖时加 "force": true
+```
+
+下文示例用 `$QCC` 表示内核入口，等价于 pip 安装后的 `qcc`。
 
 `capabilities` 若提示渲染依赖缺失，材料生成仍可进行，但渲染检查会标为未执行/受限，不会被当作通过。
 
