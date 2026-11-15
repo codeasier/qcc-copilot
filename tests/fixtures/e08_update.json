@@ -1,0 +1,10 @@
+{
+  "scenario": "输入变更后定向失效 + 跨会话恢复",
+  "change": { "type": "calculation_input", "calculation_id": "calc-benefit-1", "field": "baseline", "old": 0.5, "new": 0.6 },
+  "expectations": {
+    "affected_marked_needs_review": ["calc-benefit-1", "claim-benefit-1", "delivery-related"],
+    "unrelated_not_reset": ["claim-unrelated-1"],
+    "original_snapshot_preserved": true,
+    "resume_restores_next": true
+  }
+}

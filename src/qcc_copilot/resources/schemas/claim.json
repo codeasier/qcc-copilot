@@ -1,0 +1,24 @@
+{
+  "type": "claim",
+  "version": "1.0",
+  "id_field": "claim_id",
+  "description": "主张：来源(origin)与支持状态(support)为两组独立属性",
+  "required": {
+    "schema_version": "str",
+    "claim_id": "str",
+    "text": "str",
+    "origin": "str",
+    "support": "str"
+  },
+  "optional": {
+    "evidence": "list",
+    "verification": "list",
+    "needs_review": "bool",
+    "depends_on": "list",
+    "category": "str"
+  },
+  "enums": {
+    "origin": ["record", "member_statement", "ai_inference", "estimate", "example"],
+    "support": ["unverified", "supported", "insufficient", "conflicting"]
+  }
+}

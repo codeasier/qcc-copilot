@@ -1,0 +1,27 @@
+{
+  "type": "summary",
+  "version": "1.0",
+  "id_field": "topic_id",
+  "description": "标准摘要：自描述、保留缺口，导出时间不参与语义内容摘要",
+  "required": {
+    "schema_version": "str",
+    "format_version": "str",
+    "topic_id": "str",
+    "revision": "int",
+    "content_hash": "str",
+    "exported_at": "str"
+  },
+  "optional": {
+    "owner": "str",
+    "problem": "str",
+    "benefit": "dict",
+    "reuse": "dict",
+    "dimensions": "dict",
+    "stage": "str",
+    "gaps": "list",
+    "next": "str",
+    "status": "dict",
+    "source_scope_note": "str"
+  },
+  "enums": {}
+}

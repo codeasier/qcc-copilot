@@ -1,0 +1,38 @@
+{
+  "cases": [
+    {
+      "name": "missing_baseline",
+      "metric": { "improved": 0.25, "unit": "hours", "event_count": 10 },
+      "expect": { "computable": false, "reason_contains": "baseline" }
+    },
+    {
+      "name": "incomparable_population",
+      "metric": {
+        "baseline": 0.5, "improved": 0.25, "unit": "hours", "event_count": 10,
+        "baseline_population": "A类事件", "improved_population": "B类事件"
+      },
+      "expect": { "computable": false, "reason_contains": "compar" }
+    },
+    {
+      "name": "unit_mismatch",
+      "metric": {
+        "baseline": 30, "baseline_unit": "minutes", "improved": 0.25, "improved_unit": "hours",
+        "event_count": 10
+      },
+      "expect": { "computable": false, "reason_contains": "unit" }
+    },
+    {
+      "name": "only_waiting_time",
+      "metric": {
+        "baseline": 60, "improved": 20, "unit": "minutes", "event_count": 10,
+        "time_kind": "waiting", "human_work_changed": false
+      },
+      "expect": { "labor_benefit_computable": false, "present_as": "等待/交付周期改善" }
+    },
+    {
+      "name": "zero_denominator_ratio",
+      "ratio": { "numerator": 5, "denominator": 0, "unit": "percent" },
+      "expect": { "computable": false, "reason_contains": "denominator" }
+    }
+  ]
+}

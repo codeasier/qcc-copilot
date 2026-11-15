@@ -1,0 +1,49 @@
+{
+  "scope_note": "指定资料目录 tests/fixtures/e02_materials（虚构研发情境，用于 E02 候选发现验证）",
+  "candidate_cards_submitted_by_host": [
+    {
+      "problem": "多平台构建经常因环境差异失败，定位耗时",
+      "source_refs": ["issue-12", "retro-03"],
+      "value_hypothesis": "减少重复构建与人工排查（待验证）",
+      "common_scenarios": ["其它需要多平台产出的团队"],
+      "constraints": ["需统一构建镜像"],
+      "unknowns": ["失败频次", "每次排查工时"],
+      "dedup_key": "build-flaky",
+      "validation_suggestions": ["采集近 8 周失败记录与工时"]
+    },
+    {
+      "problem": "流水线偶发失败，日志分散难以定位根因",
+      "source_refs": ["issue-12", "issue-19"],
+      "value_hypothesis": "缩短故障定位周期（待验证）",
+      "common_scenarios": ["使用同一流水线的团队"],
+      "constraints": ["日志平台读取权限"],
+      "unknowns": ["失败分布", "是否同一根因"],
+      "dedup_key": "pipeline-triage",
+      "validation_suggestions": ["对失败样本做分层"]
+    },
+    {
+      "problem": "GUI 冒烟用例不稳定，重跑成本高",
+      "source_refs": ["retro-03", "retro-03-duplicate"],
+      "value_hypothesis": "降低重跑次数（待验证）",
+      "common_scenarios": ["有 GUI 回归的团队"],
+      "constraints": ["执行设备"],
+      "unknowns": ["不稳定率"],
+      "dedup_key": "gui-flaky",
+      "validation_suggestions": ["记录重跑频次"]
+    },
+    {
+      "problem": "多平台构建经常因环境差异失败，定位耗时（另一篇复盘的重复叙述）",
+      "source_refs": ["retro-01"],
+      "value_hypothesis": "减少重复构建（与候选 1 重复）",
+      "unknowns": ["与候选 1 为同一改进"],
+      "dedup_key": "build-flaky",
+      "validation_suggestions": ["合并来源，不重复计算收益"]
+    }
+  ],
+  "expectations": {
+    "min_cards_allowed": 0,
+    "duplicate_dedup_keys": ["build-flaky"],
+    "must_preserve_all_sources": true,
+    "must_not": ["按固定数量凑题", "把重复叙述算成两份收益"]
+  }
+}

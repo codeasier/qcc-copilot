@@ -1,0 +1,4 @@
+TOTAL=3
+2	Hulk-Zhao/Hogo-QA-tool	TypeScript	2026-09-23	MIT	浏览器里跑的工厂品质分析工具：导入 Excel 尺寸与不良数据，一键算出 Cp/Cpk/Pp/Ppk、控制图判异（西方电气规则）、柏拉图与能力图；支持报表打印与 Excel/Word 导出（图表内嵌），并内置 AI 分析助手与一键全面诊断。纯静态可完全离线，数
+1	lovexyz520/dimension-quality-analyzer	Python	2026-07-11	MIT	製造業尺寸品質分析工具 - Box-and-Whisker Plot with Cp/Cpk & SPC Analysis
+0	GTX950L/cpk-jmp-studio	HTML	2026-10-23	MIT	模仿 JMP 的过程能力分析工具：Cp/Cpk/Pp/Ppk/Cpm + SPC 控制图，离线单文件 HTML，零依赖零安装，自动绘制直方图/能力箱线图/正态概率图/控制图。

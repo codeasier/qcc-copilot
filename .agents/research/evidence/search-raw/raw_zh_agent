@@ -1,0 +1,26 @@
+TOTAL=194
+461	Agions/dramaxis	TypeScript	2026-11-12	MIT	🎬 Dramaxis (剧枢) — 电影级多智能体影视叙事与智能解说平台 (Tauri 2 + Rust + React 19)。6 大智能体协同导演、5 轨毫秒级对齐时间轴、四道质量闸门硬核质检、本地优先沙箱架构与剪映草稿深度互通。
+378	liangdabiao/Claude-Code-Stock-Deep-Research-Agent	-	2026-03-07	-	本研究基于 Claude Code Deep Research 系统：  方法论: 8阶段股票投资尽调框架 智能体: 28个并行研究智能体 工具: WebSearch、WebFetch、综合分析 质量: 多空平衡、明确风险、数据验证。简单使用：/stock-r
+63	beianchuqing111/agentic-kb	Python	2026-10-07	MIT	法规/规程知识库智能体:混合检索(bge-m3 稠密+稀疏 → 服务端 RRF → 交叉编码器重排)+ GraphRAG + 带三道闸与审计的 ReAct 智能体。含检索质量评测设施、FastAPI 接口与 React 界面。
+56	wanqili857-byte/fictionforge	Python	2026-10-01	MIT	多智能体小说写作框架 | Multi-agent novel-writing framework — 每个角色都有自己的脑子,每一章都有质量门禁
+43	mmlong818/Cat-Research	Python	2026-10-15	GPL-3.0	Cat-Research 是一个基于多智能体协作的深度研究系统。它将一个研究问题自动分解为多个专业阶段，由职责各异的 AI 智能体协同完成，最终交付一份经过来源权威性验证、事实交叉核查、结论逻辑验证的高质量研究报告。
+28	Jimmy0743/Veta	C	2025-10-13	MIT	基于大模型构建的在线 AI 问诊的多智能体宠物医生 Agent。系统面向多种常见宠物疾病，整合并构建高质量的知识库，能够通过多轮对话实现智能化问诊。项目结合 Prompt Engineering 与 LangGraph 框架，支持用户与智能体之间的自然交互，最
+17	Susanzz101/Susan-AI-Video-Prompt-skill	PowerShell	2026-08-18	MIT	Susan-AI视频提示词生成智能体，专为AI视频生成设计，主用于生成高质量AI视频提示词。目前支持沉浸式吃播、服装展示、口播带货、产品演示、剧情短剧、视频反推复刻，内置分镜、镜头语言、音效与多段衔接规则。
+12	Mars13333/reader	JavaScript	2026-08-24	MIT	开源AI书籍解读视频智能体：基于本地原著自动完成内容理解、脚本创作、分镜规划、插画生成、豆包 TTS 配音、质量复审，并通过Remotion确定性渲染竖屏视频。
+10	Tx1207/hello-scholar	JavaScript	2026-10-26	MIT	在 Agent 相关实践中发现，盲目堆砌大量技能并不会提升智能体性能，技能数量无法等价于执行质量。因此我整合了当前业内认可度较高的优质 Skill 资源，搭建本仓库，专供自己科研课题与实验开发使用。
+8	xing-0803/AgentRule-Skill	Python	2026-07-09	MIT	面向 AI Agent 的规范化开发 Skill，帮助构建高质量智能体 | A structured skill for building reliable AI agents with specifications, workflows, and accep
+8	monkbird/QCmaker	Python	2026-09-17	MIT	款基于大语言模型 (LLM) 和多智能体协作 (Multi-Agent) 技术的企业级应用，旨在辅助 QC 小组高效完成质量控制活动。该系统通过 AI 驱动的选题咨询、自动数据清洗、多模型研讨、智能可视化推荐以及 PPT 终稿生成，全流程赋能 QC 活动，显著
+8	criscuolosubidu/DeepSurvey	Python	2025-06-16	AGPL-3.0	DeepSurvey 是一个基于多智能体（MultiAgent）的自动化综述生成工具，通过输入主题即可实现深度搜索并生成高质量综述报告。项目结合先进的 RAG 和 MapReduce 机制，提供高效的信息检索与报告撰写功能，同时配备用户友好的前端界面，支持身份
+7	Maoqianhao/ai-helper	Java	2026-04-22	MIT	基于 Spring Boot 与 LangChain4j 构建多智能体协作服务平台，设计并落地“路由编排 + 高质量工作流”双模式架构；集成 SQL 查询、高德地图、面试问答等专家智能体；同时引入 RAG 与语义记忆加载机制，提升多轮对话的上下文一致性与任务完
+7	wushij/AI-MES	Java	2026-08-19	-	AI-MES 智能生产排产与制造知识库：涵盖产品 BOM、工艺路线、设备加工能力、工单派工、工序看板报工、质量检验与异常闭环等车间制造标准；沉淀排产约束规则、设备负载瓶颈分析模型与车间处理手册。为 Coze 智能体 与 AI 大模型 提供工业场景 RAG 语义
+7	Conradgui/skill-creator-pro	Python	2026-07-14	Apache-2.0	Skill Creator Pro 是一款以行为为核心的设计工具，完全基于 Codex 框架开发。该工具可用于设计、构建、验证和发布新的智能体技能。它扩展了 OpenAI 的 Skill Creator 功能，增加了明确的行为契约、可观察的工作流程机制、收集级
+7	jujubooom/WebCmsAutoDigger	Python	2026-05-13	MIT	WebAutoCmsDigger：人人可用的 AI 漏洞挖掘协作系统，让代码审计从“难而慢”变成“快且可落地”。 面向实战场景的开源多智能体安全框架，支持一键运行，自动完成项目侦察、风险点定位、LSP调用链追踪、污点分析与逻辑漏洞推演。 自动生成结构化审计报告
+6	aweg75006-maker/AMAS	Python	2026-09-19	-	面向深度调研与报告生成的智能体工作流系统：从意图识别、任务规划、知识检索到内容撰写、质量审查与定向优化，完成可追踪、可回滚的研究闭环。
+6	HHqm/RepoPilot	Python	2026-11-04	MIT	多智能体软件公司与智能交付平台：基于 LangGraph 构建面向真实软件工程流程的多智能体协作平台，模拟产品经理、项目经理、架构师、开发、测试、DevOps、安全审查和交付团队，从客户需求沟通、文件理解、RAG 检索、需求评审、项目规划、代码生成、质量审查、
+6	liyaming321/YMGPT	Java	2026-06-16	-	本项目是一个自研 AI 智能问答平台，面向企业知识库问答、客服咨询和多渠道接入场景。系统采用 Spring Boot 3、Vue 3、PostgreSQL/pgvector、Milvus 向量库，MinIO 构建，支持模型配置、知识库创建、文档上传解析、向量索
+5	Wbbbbjikjgo/TCM-Knowledge-Graph	Python	2026-10-28	-	本项目是一个融合知识图谱构建、检索增强生成（RAG）、多智能体协同三大核心技术的中医药智能化平台。系统以中医药典籍、临床医案、药典标准等原始文本为数据源，利用大模型自动化构建高质量中医药知识图谱
+5	liangdabiao/stock-deep-research-skill	-	2026-08-17	-	股票投资深度调研一体化引擎：从需求澄清、结构化研究指令生成，到多智能体并行执行 8 阶段投资尽调、GoT 图控制、多源结果综合与引用验证，端到端产出带完整引用的尽调报告。当用户提到股票分析、投资研究、投资尽调、基本面分析、估值、护城河、财报分析，或直接给出股票
+4	SuYK-666/github_project_analyzer	Python	2026-04-08	MIT	GitHub Project Analyzer 是一个基于多智能体协同（MAS）的自动化项目分析系统。只需输入 GitHub 仓库链接，即可通过包含抓取、生成、审稿、渲染的完整 AI 流水线，一键生成“工程经济”或“伦理法规”方向的 Markdown、HTML
+4	qingqiyangqidanqi/Dynamic-updating-method-of-course-content-based-on-multiple-intelligent-agents-collaboration	Python	2025-05-22	Apache-2.0	在教育领域快速发展的当下，课程内容的及时更新是一项至关重要的任务，尤其在计算机科学和人工智能等知识更新迅速的学科中。然而，传统的课程内容修订方式不仅工作量大、耗时长，而且难以与最新的学术成果和行业实践保持同步。此外，直接利用智能体工具生成的课程内容往往结构混乱
+3	silvrblt/sanjiu-core	Python	2026-10-26	NOASSERTION	多智能体对抗式审计与治理结构：九席交叉审查、分级路由、硬规则闸门，在保证输出质量的前提下压缩多模型协作成本
+3	mste-1/TTDF-DeepResearch	Jupyter Notebook	2026-10-11	-	基于 LangGraph 的多智能体深度研究系统，融合并行检索、红队对抗审查、信息降噪与质量评估，通过迭代自我修正自动生成研究报告

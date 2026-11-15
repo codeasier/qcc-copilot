@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "package": "qcc-copilot",
+  "kernel_version": "0.1.0",
+  "contract_version": "1.0",
+  "resources": {
+    "schemas": [
+      "schemas/topic.json",
+      "schemas/sources_doc.json",
+      "schemas/claim.json",
+      "schemas/calculation.json",
+      "schemas/delivery_snapshot.json",
+      "schemas/summary.json",
+      "schemas/feedback.json",
+      "schemas/candidate.json"
+    ],
+    "methods": [
+      "methods/method_profile_v1.json"
+    ],
+    "templates": [
+      "templates/report.md.tpl",
+      "templates/reuse.md.tpl",
+      "templates/summary.md.tpl",
+      "templates/neutral_theme.json"
+    ]
+  },
+  "notes": "契约/方法/模板为版本化资源；首次加载进行校验。未配置正式评奖细则，三维检查为定性检查。"
+}

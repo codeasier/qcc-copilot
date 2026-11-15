@@ -1,0 +1,24 @@
+TOTAL=23
+41	YuchenXia/LLMRiskAnalyzer	JavaScript	2026-06-18	-	Failure Mode and Effect Analysis (FMEA) assisted by LLM
+18	Abinash009/iso26262-agent	Python	2026-08-13	MIT	AI-powered ISO 26262 functional safety agent for automotive. HARA, FMEA, safety requirements generation using RAG + LLM + MCP prot
+6	APareek89/power-coding	JavaScript	2026-07-25	MIT	Mindful-coding OS for any LLM coding agent (Claude Code, Codex, Gemini CLI) — the Five Forces: session handoff, eval loops, vibe-d
+3	MasrourTawfik/DFMEA-LLM-Enhanced	Batchfile	2024-03-29	-	This repo concerns the documentation of a project about the integration of large language models (LLMs) in the procedure of risk a
+1	snehasish01/bathtub-fmea	Python	2026-07-26	NOASSERTION	FMEA-based failure mode taxonomy (80 items, 10 categories) for autonomous LLM coding agents, ranked by Risk Priority Number
+1	koo-ec/HIP_HOPS_LLM	Python	2026-09-04	NOASSERTION	Hierarchical imprecise reliability assessment and failure propagation for LLM-based agentic systems: LangGraph to fault trees to B
+0	ayuhkalk/LLM-IntegratedFMEA	Python	2025-09-14	-	
+0	Mohamed-Elsafty23/LLM-FMEA-Analyzer	Python	2025-10-25	-	Generates FMEA risk tables from unstructured customer reviews using LLMs, with S/O/D ratings, computed RPN and Pareto analysis of 
+0	ayuhkalk/fmea-ref	Python	2025-08-19	-	fmea ref- NO LOCAL LLM!
+0	Amirkhaji/fmea-automation-using-LLM	Python	2025-09-17	-	Automated Failure Mode and Effects Analysis (FMEA) using LLM agents. The system extracts components from documents, assigns S/O/D 
+0	ranjith-24-prog/FMEA_ppr_evaluation	Python	2026-08-20	-	Evaluation of LLM based app
+0	ranjith-24-prog/fmea_ppr_validation	Python	2026-09-29	-	LLM + RAG assistant for reusing FMEA risk analyses with expert review. IEEE ETFA 2026.
+0	ConcreteEngine/pharmafocus_fmea	Python	2024-08-26	-	An LLM prompt for Drug efficacy using the kroshan/BioASQ biomedical dataset, using FMEA to check result sanity
+0	pieguyatx/open-cad-2-fmea	Python	2026-09-08	Apache-2.0	Open source LLM-powered tool to analyze CAD files and auto-generate a starting FMEA. For FreeCAD, STEP, STP files
+0	ranjith-24-prog/fmea-knowledge-reuse-dataset	-	2026-04-19	-	Official dataset for the "Human-in-the-Loop Reuse of Risk Analysis Knowledge" framework. Contains curated industrial welding FMEA 
+0	Salehin555/Aviation-Severity	Python	2026-09-30	-	AeroSev: incident-grounded (ASRS/NTSB) LLM severity rater for FMEA of AI/XR-enabled aviation maintenance
+0	taruncodeplace6666/LTM_Multi-Agent-Predictive-Maintenance-Root-Cause-Analysis_T9943	Jupyter Notebook	2026-10-13	-	Real-time digital twin dashboard (Grafana ) for floor engineers Explainable AI: FMEA-grounded evidence with LLM-generated RCA repo
+0	nikhilred2619/Supply-Chain-Risk-Intelligence-Framework	Python	2026-10-08	MIT	Enterprise AI framework for real-time supply chain risk assessment using LLM-augmented decision intelligence, FMEA-based risk scor
+0	gauravs19/iiot-ai-rag	Jupyter Notebook	2026-06-22	MIT	Beginner-friendly RAG (Retrieval-Augmented Generation) for predictive maintenance: document RAG over manuals/FMEA + case-based RAG
+0	ltt-desk/industrial-quality-agent	Python	2026-06-08	-	工业质量 AI Agent 原型：支持工具调用（缺陷率查询 / FMEA 分析），基于通义千问 + Streamlit，展示 LLM Function Calling 能力。
+0	krishna11-dot/Zero-Token-Algebraic-Agent-Orchestration	Jupyter Notebook	2026-08-11	MIT	A novel multi-agent communication protocol that solves the "Context Duplication" problem in LLM workflows. By replacing conversati
+0	ProphetLuv/fusa_sw_doc_generate_tool	Python	2026-07-29	-	一个基于C/C++代码通过接入LLM生成满足ISO 26262和ASPICE标准要求的文档工具，可以生成软件需求、软件架构设计、软件详细设计、软件FMEA、软件单元测试用例
+0	zych2002918/tcms-agent	Python	2026-11-05	MIT	面向列车网络控制系统（TCMS/CAN）的测试平台，外加一层 AI 测试 Agent：查知识库、造用例、在本机真跑，结论带引用、能逐条核对。引擎 960 条报文用例、203 条 FMEA、104 个可执行场景都是真资产；四级工具权限 + 人在环路审批。Agen

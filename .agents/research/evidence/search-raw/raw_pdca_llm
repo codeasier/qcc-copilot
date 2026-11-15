@@ -1,0 +1,12 @@
+TOTAL=11
+8	gyeorye/pdca-llm-wiki	-	2026-05-12	MIT	Obsidian vault + Claude Code agent that ingests raw notes, compiles a self-organized wiki, and runs weekly/monthly PDCA   retrospe
+5	choiyounggi/dev-loop	Shell	2026-11-14	MIT	LLM Knowledge Management • Wiki-grounded verification • RFC-based documentation • Best practices automation • AI-native engineerin
+2	z4gunn/springer	Python	2026-11-11	MIT	An AI software development team for Claude Code: 27 role-based agents and 197 skills that run the full SaaS and mobile lifecycle f
+1	MarkAC007/first-principles-ai-security	Python	2026-04-28	MIT	First-principles AI security engineering — a six-part course with 10 PDCA-driven challenges, a capstone, and a provider-agnostic L
+1	M-MMahmood/ai-agent-business-launch-skills	-	2026-09-28	MIT	Agent Skills library for building a business end-to-end: ideation, validation, legal, finance, launch, and scale for Claude Code, 
+0	HITWang-tech/PDCacheServe	Python	2026-08-29	NOASSERTION	SLO-aware LLM inference control plane with Prefill-Decode disaggregation and hierarchical KV cache
+0	SpiritFlag/pdcaw-cli	TypeScript	2026-09-04	-	Sync PDCA documents (and any other Markdown under docs/) from a project repo to a PDCA-workspace server. File contents are read st
+0	xinjinwei/E3O-PDCA	Python	2026-10-20	-	E3O-PDCA 是面向知识密集型行业（金融、医药、政务）的开源 AI 知识引擎框架，将大语言模型与知识图谱深度融合，通过 PDCA 闭环把非结构化文档自动转化为可追溯、可复用的领域知识资产。包含图构建（e3o_core）、LLM 网关（e3o_connect
+0	SynomosAI/research-quality-gate	-	2026-10-18	MIT	Research quality framework - LLM-as-judge scoring gate for reports - 研究质量闸门（SynomosAI 四支柱 · research-quality-gate）
+0	israel7852/claude-code-mastery	Shell	2026-10-14	MIT	🌐 Master Claude Code with this comprehensive guide on enhancing projects with MCP servers, commands, and effective chat strategies
+0	holaymolay/governance-orchestrator	Python	2026-01-07	-	Context-Engineering Framework for Coding Agents

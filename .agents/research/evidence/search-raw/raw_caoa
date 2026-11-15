@@ -1,0 +1,26 @@
+TOTAL=205
+17	AliakseiT/dearauditor-qms-baseline	Python	2026-10-28	NOASSERTION	Open-source, GitHub-native eQMS baseline for medical device and regulated software teams. Issues, PRs, Actions, and Releases form 
+16	CIFASIS/exploiting-gan-internal-capacity	Python	2019-11-14	MIT	Code for reproducing experiments in "Exploiting GAN Internal Capacity for High-Quality Reconstruction of Natural Images"
+7	alebaho/capability	Python	2021-03-22	LGPL-3.0	Python code for quality control tools.
+7	AnbuKumar-maker/Hexapod-Robot-With-AI-Capabilities	C++	2020-01-24	-	In this project I am building a 6 legged, 18 DOF Hexapod Robot and AI Capabilities using NVIDIA Jetson Nano and Intel RealSense T2
+4	pHAlkaline/phkapa	PHP	2023-08-20	NOASSERTION	PHKAPA, Nonconformity management software for quality assurance. Allows to generate action (CAPA) requests that routes through reg
+2	jerry4rahul/capacitor-image-cropper	Java	2025-02-27	-	A Capacitor plugin that enables image cropping functionality using the popular UCrop library. Supports aspect ratio settings, resi
+2	ishandutta2007/Awesome-Manufacturing-Quality-Management	-	2026-11-07	MIT	Top Manufacturing Quality Management (QMS) (Opensource) 🌟 Star if you like it! 🌟
+2	HarshilShethna/PROFILE	-	2025-11-14	-	Quality Engineer experienced in Lean Six Sigma, APQP/PPAP, PFMEA, Control Plans, RCA/CAPA, Gage R&R, SPC, and process optimization
+2	virtualryder/hcls-ai-agents	Python	2026-07-13	NOASSERTION	Governed AI agents for life sciences (pharma, biotech, CRO) — 8 agents covering regulatory writing, pharmacovigilance, clinical tr
+1	A78Daydreamer/QAtrial	-	2026-04-17	AGPL-3.0	Open-source AI-powered quality management for regulated industries. React 19 + Hono + PostgreSQL + Prisma. eTMF, eConsent, batch r
+1	Shubhrangshub/QualityStudio	JavaScript	2026-01-18	-	RCA/CAPA Workflow
+1	nicholasgower/wagons-quality-raises-capacity	Lua	2025-01-06	MIT	
+1	jhugomagana/pharma-capa-dashboard-static	HTML	2026-03-23	-	Forecasting Quality Metrics
+1	cap-kit/capacitor-plugins	Kotlin	2026-11-13	MIT	A collection of high-quality open source plugins for Capacitor.
+1	sheenshaji96-wq/Quallity-nc-capa-analytics	-	2025-12-30	-	Quality NC & CAPA analysis using Excel, PostgreSQL and Power BI
+1	creep0423/manufacturing-quality-intelligence	Python	2026-09-26	MIT	智能质量分析平台｜面向制造质量异常调查、RCA 与 CAPA 闭环的Agent 应用
+1	LuChangQiu/scene-capability-engine	JavaScript	2026-03-25	MIT	Kiro Spec Engine - A spec-driven development engine with steering rules and quality enhancement powered by Ultrawork spirit
+1	Shrey-Trivedi-18/manufacturing-process-capability	HTML	2026-10-17	-	Simulated quality engineering case study: inspection and MSA, ordered SPC, conditional capability, corrective action, and linked d
+1	issacaddala/lims-sql-portfolio	-	2026-08-16	-	LIMS, SQL, pharmaceutical quality systems, environmental monitoring, auditing, CAPA, and continuous improvement projects.
+1	gabriel-tutor/ionic-capacitor-skills	-	2026-03-12	MIT	Claude Code Skill for building production-quality Ionic Capacitor mobile apps across React, Angular, and Vue. 100% benchmark pass 
+1	AbleIntelligence/capable-core	Python	2026-03-03	MIT	An autonomous multi-agent software development system powered by Google ADK that resolves GitHub issues end-to-end using isolated 
+1	cyberdudeuk/dam-capability-playbooks	Python	2026-11-14	MIT	Data Asset Management (DAM) capability playbooks: data governance, cataloguing and quality for UK government, with a capability mo
+1	abdelfatah-ashour/capacitor-audio-engine	Java	2026-06-14	MIT	High-quality audio recording Capacitor plugin with native iOS & Android support. Features pause/resume, microphone management, rea
+1	srikant-kumar/capacitor-screen-recorder	Java	2023-08-28	MIT	Elevate your app with Capacitor Screen Recorder. Integrate seamless screen recording in Capacitor apps. Capture, save, and share i
+1	lucydavisw/CAPA-complaint-qms-tracker	Python	2025-08-19	-	Flask-based prototype for Quality Management System workflows, including complaint intake, non-conformance tracking, and CAPA mana

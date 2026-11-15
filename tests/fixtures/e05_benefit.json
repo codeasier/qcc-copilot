@@ -1,0 +1,24 @@
+{
+  "scenario": "measured",
+  "metric": {
+    "scenario": "measured",
+    "event_count": 40,
+    "baseline": 0.5,
+    "improved": 0.25,
+    "unit": "hours",
+    "time_kind": "human_operation",
+    "hours_per_person_day": 8,
+    "attributable_cost_hours": 2,
+    "cost_attribution": "one_time_in_observation_period",
+    "observation_period": "2026-09-01..2026-09-30",
+    "population": "构建校验处理事件",
+    "source_id": "timesheet-2026-09"
+  },
+  "negative_variant": { "attributable_cost_hours": 12 },
+  "extrapolation": {
+    "scenario": "extrapolation",
+    "note": "预测另外 3 个部门采用后的收益，单列，不并入 measured 总额",
+    "assumed_teams": 3,
+    "assumed_events_per_team": 40
+  }
+}

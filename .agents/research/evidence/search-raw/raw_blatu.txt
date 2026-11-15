@@ -1,0 +1,25 @@
+TOTAL=24
+26088	Dujltqzv/Some-Many-Books	-	2026-06-18	-	个人收藏书籍列表　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+5449	cirosantilli/x86-bare-metal-examples	Assembly	2022-07-18	NOASSERTION	Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: ht
+334	cirosantilli/cirosantilli	JavaScript	2026-09-22	-	小粉红小朋友们，新issue 在这儿开： https://github.com/cirosantilli/china-dictatorship/issues # 21世纪新政宣言（2020年4月5曰笫四次修改稿)（2020年6月19曰第七次修改，以下“【】”内文字为非正文内容的说明）20世纪苏联的消
+154	dedecms/DedeCMS	PHP	2022-01-28	NOASSERTION	DedeCMS 是IT柏拉图于2004年编写的基于GPL协议开源的内容管理系统，自诞生以来秉承着开源免费的理念拥有大量用户。现因不法分子试图侵占DedeCMS且其知识产权存在争议，故暂时封存该项目。
+15	quant-user/quant-lianghua	-	2024-05-09	-	A股量化交易工具和实盘行情，每日收盘更新。最高收益记录一个月翻倍 quant/tradingview/订单流/交易员/股票/量化交易/行情api/lv2行情/全球指数/同花顺/雪球/淘股吧/知乎/券商下单接口/高频交易/通达信/股市股票财经/比特币外汇期货/EA/量价指标k线图/理财盈利收益阶级跨越
+6	KimigaiiWuyi/RH_ComfyUI	Python	2026-11-13	AGPL-3.0	支持连接到ComfyUI实例或者连接至RunningHub代理的聊天机器人插件, 支持柏拉图生图、生成视频API, 支持OneBot(QQ)、OneBotV12、QQ频道、微信、KOOK（开黑啦）、Telegram（电报）、FeiShu（飞书）、DoDo、Discord等多种Bot。
+5	shskjw/astrbot_plugin_bolatuship	Python	2026-03-10	AGPL-3.0	使用柏拉图API接口和Sora 2等模型生成视频
+5	A-cat-with-carrots/socratic-dialogue	HTML	2026-07-07	MIT	苏格拉底对话体写作 Claude Skill — 一句『把 X 写成苏格拉底对话』→ 信徒陈词 + 苏格拉底层层追问 + 反转 + aporia 收尾,七条铁律(信徒有牙/苏格拉底不认错/不许独白/结论 reframe/去 AI 腔)+ 柏拉图真功夫(逼定义/反例击穿/先骗同意再合拢),可选网页排版
+4	hghkiiy121/Shang-Chi-and-the-Legend-of-the-Ten-Rings	-	2021-09-12	-	尚气与十环传奇：毁灭 完整版, 尚气与十环传奇：毁灭 线上, 尚气与十环传奇：毁灭 下载, 尚气与十环传奇：毁灭 Shang-Chi and the Legend of the Ten Rings电影完整版, 尚气与十环传奇：毁灭 小说完整版, 尚气与十环传奇：毁灭 上映时间完整版, 尚气与十环传奇
+3	duding-engicool/skill-qc-tools	Python	2026-09-06	-	质量管理QC手法辅助工具；支持柏拉图、鱼骨图、直方图、控制图、散布图等图表自动生成；用户需进行质量分析、问题诊断或数据可视化时使用；覆盖QC七大手法
+2	CCYellowStar2/nonebot-plugin-sunoai	Python	2024-08-03	GPL-3.0	基于第三方柏拉图api的sunoai插件，支持文生音乐和纯音乐
+2	Hulk-Zhao/Hogo-QA-tool	TypeScript	2026-09-23	MIT	浏览器里跑的工厂品质分析工具：导入 Excel 尺寸与不良数据，一键算出 Cp/Cpk/Pp/Ppk、控制图判异（西方电气规则）、柏拉图与能力图；支持报表打印与 Excel/Word 导出（图表内嵌），并内置 AI 分析助手与一键全面诊断。纯静态可完全离线，数据不出本机。
+1	tochikoma777/Plato-SFT-V2	Python	2026-05-27	-	基于LoRA 微调的哲学家柏拉图角色扮演模型V2.0
+1	nuwa-skills/plato-skill	-	2026-10-18	MIT	柏拉图.skill — 理念论/哲学对话/理想国的思维操作系统
+1	WT-Agent/ai-2chuang	Vue	2026-08-22	-	网腾无限AI 文案二创 - 专注于【你是一个文案二创大师。你需要一次性从9位巨擘的思维出发，为用户改写原始文案。这9位巨擘是：马斯克、比尔盖茨、扎克伯格、贝索斯、乔布斯、柏拉图、爱因斯坦、特斯拉、秦始皇。要求：深入剖析每人核心思想与独特语气（如马斯克的第一性原理、乔布斯的极致完美与用户体验、秦始皇的
+1	WT-Agent/ai-bqb	Vue	2026-08-22	-	网腾无限AI表情包生成器 - 专注于【你是一个创意表情包与搞笑插画设计大师。用户在前端输入了表情包配文，并选择了人物角色（如马斯克、比尔盖茨、扎克伯格、贝索斯、乔布斯、柏拉图、爱因斯坦、特斯拉、秦始皇或传统熊猫头）与画面风格（经典线条画、写实搞怪、3D粘土卡通、复古8位像素）。你需要为大模型生成一张
+0	nearWind/xuyuanyuan	-	2020-03-16	-	传播，分享，交流知识的柏拉图
+0	Hptd/Ai-Chat-Bot---bolatuAPI	Python	2025-11-30	-	基于柏拉图 API平台的对话API制作的对话文字类Ai助手
+0	dyz2102/symposium	TypeScript	2026-04-02	-	Plato's philosophers, reborn to debate AI. 柏拉图的哲学家们，重生以辩论人工智能。
+0	k286c7hg65-hub/explore-site	HTML	2026-10-14	-	三个人，三种问法 · 苏格拉底 柏拉图 亚里士多德（原 Riemann007/explore-site，账号停用后迁此重建）
+0	suxing031/wobuxiangxin.github.io	-	2019-12-12	-	“ 一群迷惘的柏拉图式空谈家就着月光跳下防火梯跳下窗台跳下帝国大厦 ”
+0	ivoidcat/politeia-coder	-	2026-02-13	-	 柏拉图《理想国》编程哲学准则。编写代码、架构设计、重构、技术选型时自动激活。以理性统治决策，苏格拉底式提问引导思考。
+0	yoyoungks/QueryMind	HTML	2025-10-28	-	这是一个帮助用户自我探索、追问内心困惑的工具。它鼓励你像柏拉图式的自我对话一样，一步步追问自己的困惑和感受，最终找到问题的根源。每一次自问自答都会被记录并可视化为一棵树，形成清晰的逻辑路径。 适合希望深度自我反思、探索问题根源、整理思路和感受的人群。
+0	yoyoungks/QueryMind-1.0	HTML	2025-10-29	-	这是一个帮助用户自我探索、追问内心困惑的工具。它鼓励你像柏拉图式的自我对话一样，一步步追问自己的困惑和感受，最终找到问题的根源。每一次自问自答都会被记录并可视化为一棵树，形成清晰的逻辑路径。 适合希望深度自我反思、探索问题根源、整理思路和感受的人群。

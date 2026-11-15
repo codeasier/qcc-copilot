@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.qcc/
+.qcc.backup/
+build/
+dist/
+.venv/
+*.sync-conflict-*
+.DS_Store
+
+# OpenSpec 规划文档、变更归档与主规格不纳入本仓库分发
+openspec/

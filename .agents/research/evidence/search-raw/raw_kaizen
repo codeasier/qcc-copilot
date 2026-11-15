@@ -1,0 +1,26 @@
+TOTAL=117
+46	Kaizen-agent/kaizen-agent	Python	2025-07-18	MIT	The AI Agent That Improves Your LLM App
+17	getkaizen/kaizen-security	Python	2026-06-26	NOASSERTION	Runtime security for the AI agents you build. Learns each agent's normal behavior and blocks what it never does.
+6	hfadhlullah/kaizen	TypeScript	2026-11-13	MIT	Your AI agent shows you the plan before it does the work, and a second agent checks what it did.
+6	DYAI2025/Plumbline	Shell	2026-09-02	NOASSERTION	Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD defense-in-de
+4	LevyBytes/agent-kaizen	Python	2026-11-05	AGPL-3.0	The Kaizen System is a five-layer approach (SAVMI) to continually improving workflows for agentic coding work. It can be used by h
+4	ntholm86/principles-of-earned-autonomy-skills-suite	PowerShell	2026-11-11	MIT	Open AI agent skills implementing Principles of Earned Autonomy: intent interpretation, persistent context and inspectable improve
+3	kaizen-labs-ai/kaizen	TypeScript	2026-08-30	MIT	The AI agent that gets the job done.
+3	Agentrix-ComES/AGENTRIX26-TEAM08-CodeKaizen	Python	2026-06-20	-	
+2	TheIllusionOfLife/AgentKaizen	Python	2026-03-10	Apache-2.0	An Agent Skill to optimize AGENTS.md, README.md, skills, and so on for Claude Code and Codex.
+2	Thenamudhan666/KAIZEN	TypeScript	2026-10-04	-	Kaizen is an advanced AI agent architecture built on the philosophy of continuous improvement through real-time human-in-the-loop 
+2	SabaTech-dev/Saba-AgenticFlow	Python	2026-11-04	MIT	Agentic workflow orchestration & continuous evolution — Multi-agent architecture, OpenProse workflows, AutoResearch SDK, PDCA/Kaiz
+2	KevinCrosby/ai-kaizen	Python	2026-04-18	-	CLI toolkit for AI-Agent-Forward Kaizen transformation at scale
+2	hypergraphdev/abs-skills	Python	2026-10-15	MIT-0	ABS · AI Business System skill for AI agents: lean and operational-excellence methods with sources, scheduled plans and operations
+1	HighwayofLife/agent-kaizen	Python	2026-11-10	MIT	Continuous improvement for AI coding agents: a Claude Code plugin that audits token usage, trims context, routes work to the right
+1	iamichieuche/kaizen	TypeScript	2026-04-01	-	Agent skills for designers who ship — by @iamichieuche
+1	Shivraj-G/Kaizen---AI-Agent	Python	2026-11-07	-	AI agent harness creating from scratch.
+1	zouaksyrine/Refactoring-Swarm-kaizen	Python	2026-07-20	-	multi-agent 
+1	martin-dimi/kaizen	-	2026-03-13	-	Self-improving meta-system that observes your agentic coding workflow, detects patterns, and spawns OSS projects to eliminate fric
+1	james-dwan/ai-kaizen-framework	Python	2026-07-21	MIT	Human-AI Collaborative Kaizen for Agentic Systems with LangGraph
+1	Moriarty33/jb-kaizen	Shell	2026-11-10	MIT	Nightly self-improvement engine for Claude Code: learns from your commits, PR reviews and session transcripts, then refines your a
+1	karthikj5453/Kaizen-AI	TypeScript	2026-07-10	-	An AI-powered self-assessment platform that uses multiple intelligent agents to generate adaptive questions, evaluate knowledge, i
+1	hashim212-cs/Kaizen_Hive_Internship	Python	2026-09-07	-	Generative & Agentic AI Internship Kaizen Hive — 45 Python tasks across 9 modules: prompt engineering, NLP & chatbot architecture,
+1	khensin166/Kaizent-Smart-Router-Memory-MCP	Shell	2026-09-15	-	✅ OmniRouter ✅ MCP Server ✅ Agent Memory ✅ PostgreSQL/SQLite ✅ Folder Obsidian (di-mount ke container)
+1	anuragmanik7-rgb/kaizen-eye	Python	2026-10-18	-	Kaizen Eye: India's smartest AI system for shop-floor & construction site productivity. One phone video → timed findings, SOP and 
+1	MrBogomips/agentic-harness	Shell	2026-09-28	MIT	Claude Code plugin: stand up, assess, and maintain an agentic harness in an existing repo — generated agent teams, spec-system coo

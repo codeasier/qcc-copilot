@@ -1,0 +1,25 @@
+{
+  "type": "calculation",
+  "version": "1.0",
+  "id_field": "calculation_id",
+  "description": "计算：确定性输入、公式、单位、结果与口径",
+  "required": {
+    "schema_version": "str",
+    "calculation_id": "str",
+    "kind": "str",
+    "inputs": "dict",
+    "result": "dict"
+  },
+  "optional": {
+    "formula": "str",
+    "unit": "str",
+    "assumptions": "list",
+    "scenario": "str",
+    "worksheet": "str",
+    "needs_review": "bool",
+    "depends_on": "list"
+  },
+  "enums": {
+    "scenario": ["measured", "member_provided", "estimate", "extrapolation"]
+  }
+}

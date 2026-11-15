@@ -1,0 +1,21 @@
+{
+  "entry": "supplied_improvement",
+  "supplied": {
+    "description": "已上线一个构建产物校验脚本，提交记录若干，但尚无使用前后的工时测量。",
+    "implementation_status": "implemented",
+    "facts": [
+      { "kind": "feature_implemented", "text": "校验脚本已合并并上线", "source_id": "git-log-1" },
+      { "kind": "deployment", "text": "流水线已接入校验步骤", "source_id": "deploy-link-1" }
+    ],
+    "benefit_claim": "成员口述大概能省一些人天",
+    "measured_outcome": null,
+    "adoption_by_other_teams": null,
+    "unknowns": ["无基线工时", "无实际事件数", "无收益测量记录"]
+  },
+  "expectations": {
+    "implementation_fact": true,
+    "benefit_marked_as": "unverified_member_statement",
+    "adoption_marked_as": "unknown",
+    "must_not_claim": ["已节省人天", "已被其他团队采用"]
+  }
+}

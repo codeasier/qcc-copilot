@@ -1,0 +1,26 @@
+TOTAL=70
+58	ReliaQualAssociates/ramstk	Python	2026-10-26	BSD-3-Clause	Reliability, Availability, Maintainability, Safety (RAMS) analysis program.
+47	dromation/open-fmea	Python	2026-09-22	GPL-3.0	Open FMEA
+47	RBraga01/Quality-Engineering-Skills	JavaScript	2026-11-14	MIT	23 quality engineering skills and 8 agents for AI — ISO 9001, IATF 16949, AIAG-VDA FMEA, VDA 6.3, PPAP, APQP, SPC, MSA
+32	intuit/CloudRaider	Java	2023-12-05	Apache-2.0	A resiliency tool that automates Failure mode effect analysis tests, simplifying complex testing with a behavior-driven developmen
+20	esanmar/fmea	PHP	2024-11-18	-	Failure mode and effects analysis is the process of reviewing as many components, assemblies, and subsystems as possible to identi
+10	SamruddhiGoswami/LeanProcessImporovement	-	2020-08-09	-	I improved customer experience at the Indian Market located in Milpitas using Lean Six Sigma techniques. The primary focus of this
+8	tertiarycourses/TGS-2025055775-Certified-Lean-Six-Sigma-Green-Belt-CLSSGB-Training	Python	2026-10-20	-	WSQ Certified Lean Six Sigma Green Belt (CLSSGB) Training (TGS-2025055775) — 4-day / 32-hour DMAIC course with 25 hands-on activit
+7	MelkorBalrog/AutoML	Python	2026-08-01	GPL-3.0	Ultimate Autonomous Driving Systems Safety Engineering free tool which covers UL 4600, ISO/TR 5083, ISO 26262, ISO 21448, ISO 2143
+6	APareek89/power-coding	JavaScript	2026-07-25	MIT	Mindful-coding OS for any LLM coding agent (Claude Code, Codex, Gemini CLI) — the Five Forces: session handoff, eval loops, vibe-d
+6	chenxihuang1028-a11y/risk-management-specialist	Python	2026-07-28	MIT	Claude Skill: ISO 14971:2019 medical device risk management — risk analysis, evaluation, control, FMEA tooling, post-production su
+5	tertiarycourses/C913-Certified-Lean-Six-Sigma-Black-Belt-CLSSBB	Python	2026-09-23	-	10 hands-on Lean Six Sigma Black Belt labs covering DMAIC, project selection, VOC, CTQ, SIPOC, charter, process mapping, MSA, capa
+4	Siddardth7/fmea-risk-analyzer	Python	2026-06-14	MIT	Python/Streamlit FMEA Risk Prioritization Tool — automated RPN scoring, AIAG FMEA-4 flagging, Pareto + heatmap reports for manufac
+4	Siddardth7/quality-platform	Python	2026-11-07	-	Stable v1: AIAG core quality tools (FMEA, SPC, Control Plan, MSA/Gage R&R) as a closed loop over a shared typed core, callable by 
+3	tertiarycourses/TGS-2024051900-Certified-Lean-Six-Sigma-Black-Belt-CLSSBB-Training	Python	2026-10-20	-	WSQ Certified Lean Six Sigma Black Belt (CLSSBB) Training, TGS-2024051900. 5-day practitioner course with 34 hands-on activity pac
+2	Siddardth7/quality-engineering-skills	Python	2026-11-07	-	Agent-native quality engineering — verified engines the AI calls, not prose it improvises. Sister repo to quality-platform.
+2	tertiarycourses/C481-Certified-Lean-Six-Sigma-Green-Belt-CLSSGB	Python	2026-09-23	-	Courseware for the Certified Lean Six Sigma Green Belt (CLSSGB) course (C481) by Tertiary Infotech Academy — 493-slide deck, Lesso
+2	tertiarycourses/C524-Certified-Lean-Six-Sigma-Yellow-Belt-CLSSYB	Python	2026-09-24	-	Non-WSQ courseware for Certified Lean Six Sigma Yellow Belt (CLSSYB), C524 — 2 days / 15 hours. 261-slide deck, Lesson Plan, Learn
+1	koo-ec/HIP_HOPS_LLM	Python	2026-09-04	NOASSERTION	Hierarchical imprecise reliability assessment and failure propagation for LLM-based agentic systems: LangGraph to fault trees to B
+1	dodo5037/quality-reliability-study	Python	2026-11-13	-	Why machines fail: Pareto, physical root causes, SPC control charts, FMEA and cross-validated failure prediction on 10,000 machine
+1	snehasish01/bathtub-fmea	Python	2026-07-26	NOASSERTION	FMEA-based failure mode taxonomy (80 items, 10 categories) for autonomous LLM coding agents, ranked by Risk Priority Number
+1	tertiarycourses/TGS-2023037830-Design-and-Process-FMEA	-	2026-10-17	-	WSQ Process and Design FMEA courseware, activities and FMEA Excel templates (TGS-2023037830)
+1	008993368-yaz/expect-the-unexpected	Shell	2026-09-26	MIT	Scenario-driven failure-mode analysis skill for AI coding agents (Cursor, Claude Code, Copilot, Codex)
+0	aiovent/safety-case-kit	Python	2026-08-08	MIT	ISO 26262 helpers: HARA classification (S/E/C to ASIL per the standard's table), ASIL decomposition validation, and FMEA risk tabl
+0	snehasish01/fmea-engine	Python	2026-08-16	MIT	Executable FMEA engine: taxonomy as a schema, RPN as derived code, not a spreadsheet formula. Ships the published Project Bathtub 
+0	ranjith-24-prog/fmea_ppr_validation	Python	2026-09-29	-	LLM + RAG assistant for reusing FMEA risk analyses with expert review. IEEE ETFA 2026.

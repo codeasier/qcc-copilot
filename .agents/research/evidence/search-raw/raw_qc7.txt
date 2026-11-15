@@ -1,0 +1,3 @@
+TOTAL=2
+3	duding-engicool/skill-qc-tools	Python	2026-09-06	-	质量管理QC手法辅助工具；支持柏拉图、鱼骨图、直方图、控制图、散布图等图表自动生成；用户需进行质量分析、问题诊断或数据可视化时使用；覆盖QC七大手法
+0	micker590326/QA-Internship-Portfolio	-	2026-10-06	-	品保實習生求職作品集：問卷資料品質核查、YOLO模型測試記錄、QC七大手法練習

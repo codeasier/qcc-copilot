@@ -1,0 +1,26 @@
+TOTAL=70
+1	dbhavsar1197/data-quality-copilot	Python	2026-06-19	-	
+1	moyunzero/gzh-quality-copilot	Python	2026-10-28	MIT	WeChat Official Account quality copilot: own-account review, structure coaching, shippable next-post experiments. Agent Skill (gzh
+1	Kellerzinho/IFC-Quality-Copilot	Python	2026-11-09	-	
+1	FenAbdel/agentic-data-quality-copilot	Python	2026-08-12	-	
+1	BalajiV21/Agentic_dataQuality_copilot	Python	2026-02-27	MIT	LLM-enhanced Data Engineering project showcasing an Agentic AI workflow. The system ingests data via Azure Event Hub + ADF, proces
+1	akshay-kakade/AI-Data-Quality-Copilot	Python	2026-06-01	-	AI Data Quality Copilot is a FastAPI and Gradio web application for checking dataset quality. It lets users upload CSV or Excel fi
+1	Shyam-Gupta-Chiliveri/SAP-BTP-Quality-Copilot	JavaScript	2026-10-21	-	SAP Business AI Architect Workbench on CAP: Phase 0 assessment (Greenfield/Brownfield/Hybrid), RISE/BTP/BDC/Joule reference archit
+1	nirvishagarara/ai-data-quality-copilot	Python	2026-03-07	MIT	
+1	Keerthi-Rapolu/langgraph-data-quality-copilot	Python	2025-12-29	-	An AI-driven Data Quality Copilot built with LangGraph, DuckDB, and local LLMs to automatically profile datasets, generate quality
+1	darrendariustan/soar-water-quality-copilot	Python	2026-06-11	-	For SuperAI Hackathon
+1	Shyam-Gupta-Chiliveri/Snowflake-Cortex-Materials-Copilot	JavaScript	2026-10-23	MIT	Materials quality copilot on Snowflake Cortex: data pipeline, Cortex Search, Cortex LLM, Snowflake ML, Node.js API and React UI ov
+1	SalimKashou/AC-PromptSmith	JavaScript	2026-02-19	NOASSERTION	A local-only Acceptance Criteria prompt generator that generates high-quality Copilot prompts from a user story, optional context,
+0	amzadb/Quality_Copilot	Python	2026-07-31	MIT	
+0	sarat18k/Quality_Copilot	Python	2026-09-16	MIT	
+0	VictorSilvaCamargo/quality-copilot	-	2026-11-08	MIT	Agente RAG para deteccao de falhas recorrentes e estimativa de custo evitavel em veiculos a partir de dados publicos da NHTSA.
+0	GayathriMallavojvala/quality-copilot	-	2026-09-15	-	
+0	AndradeJV/quality-copilot	TypeScript	2026-01-24	-	
+0	ArslanAsad/data-quality-copilot	TypeScript	2026-02-28	MIT	A system for automated data profiling, quality issue detection, and LLM-powered structured reporting.
+0	asyiqinrohaidy/data-quality-copilot	Python	2026-08-03	-	
+0	DanieleBrignani/data-quality-copilot	Python	2026-09-24	MIT	Upload a CSV or Excel file, get its data quality problems explained in plain language, and apply only the fixes you approve — with
+0	Dhanush29036/data-quality-copilot	TypeScript	2026-08-31	MIT	
+0	FatoumataMBALLO/data-quality-copilot	Python	2026-10-26	-	   Pipeline de contrôle qualité des données : règles SQL, DuckDB, tableau de bord Power BI et explications automatiques.
+0	sidd-8/data-quality-copilot	Python	2026-06-30	-	
+0	GSruthi1/call-quality-copilot	Python	2026-09-20	-	
+0	Siddardth7/supplier-quality-copilot	JavaScript	2026-11-15	-	Agentic workflow for supplier qualification and monitoring. Synthetic data; fan-made, not affiliated with Marvel.

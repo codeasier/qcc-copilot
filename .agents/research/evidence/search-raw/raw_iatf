@@ -1,0 +1,26 @@
+TOTAL=66
+47	RBraga01/Quality-Engineering-Skills	JavaScript	2026-11-14	MIT	23 quality engineering skills and 8 agents for AI — ISO 9001, IATF 16949, AIAG-VDA FMEA, VDA 6.3, PPAP, APQP, SPC, MSA
+32	jherrodthomas/integrated-automotive-standards-handbook	JavaScript	2026-10-18	CC0-1.0	Single-source automotive standards handbook cross-mapping ISO 26262, ISO/SAE 21434, ISO 21448, ISO/PAS 8800, ISO 9001 / IATF 16949
+6	cy556-like/automotive-quality-engineer-skills	Python	2026-06-16	-	汽车行业质量改进工程师AI Skills工具集 - 涵盖IATF 16949、五大核心工具(APQP/FMEA/SPC/MSA/PPAP)、8D/DMAIC/PDCA等质量改进方法论，支持Word/PPT/Excel文档自动生成
+1	shaikhadibbb/AutoWeld-Vision	Python	2026-05-31	-	Unsupervised anomaly detection pipeline for real-time welding quality control with IATF 16949 audit trail compliance.
+1	AizazUsman171/Enterprise-Automotive-CSR-Document-Intelligence-Platform	Python	2026-07-22	-	Enterprise RAG platform for automotive compliance (IATF 16949 / VDA-QMC) serving Mercedes, BMW, and Volvo using LangChain, FAISS, 
+1	sergey-kasatov/iatf-quality-report-prompt	Python	2026-07-29	-	A tested prompt for drafting ISO 9001 / IATF 16949 quality reports, with a data-integrity guardrail and the negative control that 
+1	ryvolapavel23/nastrojekvality.cz	Python	2026-11-14	-	Bezplatné online nástroje pro řízení kvality v automotive a průmyslu (8D Report, Paretova analýza, Ishikawa diagram, Cpk kalkulačk
+1	ryvolapavel23/GetQualityTools.com	Python	2026-11-14	-	Free online Quality Engineering & Six Sigma tools for Automotive & Manufacturing (AIAG, IATF 16949, ISO 9001). 8D Report Generator
+1	SouleymaneDiallo04/QMS_Chatbot	TypeScript	2026-05-10	-	Chatbot IA de gestion qualité (ISO 9001 / IATF 16949) : recherche sémantique documentaire, génération de checklists d'audit, analy
+1	kolmag/auditor-expert	Python	2026-05-06	-	RAG-based audit expert Q&A — ISO 9001 / IATF 16949 / AS9100D. Multi-model benchmark (610q eval set, 8 models). Production stack: G
+1	AizazUsman171/Enterprise-GRC-Audit-AI-Automation-Engine	Python	2026-07-22	-	Enterprise AI engine generating certification-ready audit documentation across 40+ compliance frameworks (ISO 27001, SOC 2, NIST, 
+1	duding-engicool/skill-csr-analyzer	Python	2026-09-06	-	判断用户提供的文档是否属于汽车行业质量管理体系 IATF 16949 中的客户特定要求。直接触发词：判断CSR、客户特定要求、CSR审核、IATF CSR、CSR分析。语义触发：当用户消息中包含'客户要求'+'质量体系'、'OEM特殊要求'、'汽车客户额外要求
+0	SYHONG8704/IATF16949	-	2026-04-20	-	
+0	Vannyvon/IATF16949	HTML	2026-09-21	-	
+0	WYQHKHHK/IATF16949-2016-Tool	TypeScript	2026-04-25	-	16949标准条款架构学习
+0	DDMANS2/IATF16949_CP	HTML	2026-03-05	-	
+0	thithipl/IATF16949_Document	Vue	2025-12-17	-	
+0	coverez5-lgtm/iatf16949-introductory-quiz	TypeScript	2026-06-20	-	
+0	haheun703-stack/iatf16949-manager	TypeScript	2026-09-14	-	
+0	WYQHKHHK/IATF16949_Smart_Platform	TypeScript	2026-04-25	-	本平台旨在为质量管理专业人士提供便捷的检索、学习和备考辅助工具
+0	sizuichu/IATF16949-QMS-VSTO	-	2025-02-22	-	
+0	kimsanggi85-del/TJ-IATF16949_Original	HTML	2026-10-13	-	
+0	duding-engicool/skill-iatf16949-qms-planning	Python	2026-09-06	-	辅助汽车企业建立与优化IATF16949质量管理体系；提供标准解读、策划流程、文件模板、过程工具指导及审核支持；当用户需要建立体系、准备认证、分析过程差距或策划内审时使用
+0	ganeshgowri-ASA/audit-pro-enterprise	Python	2025-11-17	-	Enterprise Audit Management System - ISO 9001, IATF 16949, VDA 6.3 compliant. NC/OFI tracking, CAR/8D, Audit Planning & Reporting 
+0	willianwrr1-oss/iatf_16949	JavaScript	2026-10-07	-	

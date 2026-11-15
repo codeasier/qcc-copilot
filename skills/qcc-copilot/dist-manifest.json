@@ -1,0 +1,31 @@
+{
+  "package": "qcc-copilot",
+  "version": "0.1.0",
+  "kernel_version": "0.1.0",
+  "contract_version": "1.0",
+  "format_version": "1.0",
+  "method_profile": "qcc-three-dimensions",
+  "method_version": "1.0",
+  "requires_python": ">=3.11",
+  "required_dependencies": [],
+  "optional_dependencies": {
+    "python-pptx": "未安装也可运行；内置 stdlib OOXML 生成器",
+    "libreoffice_or_soffice": "缺失时渲染检查受限/未执行"
+  },
+  "official_scoring_configured": false,
+  "background_listener": false,
+  "resources": {
+    "schemas": "src/qcc_copilot/resources/schemas/*.json",
+    "methods": "src/qcc_copilot/resources/methods/method_profile_v1.json",
+    "templates": "src/qcc_copilot/resources/templates/*",
+    "manifest": "src/qcc_copilot/resources/manifest.json"
+  },
+  "entry": "python3 -m qcc_copilot <command> [--input req.json]",
+  "skill": "skills/qcc-copilot/SKILL.md",
+  "verification": {
+    "unit_tests": "71 (python -m unittest discover -s tests -t .)",
+    "acceptance": "docs/acceptance-report.md (E01–E12)",
+    "support_matrix": "skills/qcc-copilot/references/support-matrix.md"
+  },
+  "note": "建议实施基线（design.md）；未配置正式评奖细则、企业模板与试点目标，未测组合保持未验证。"
+}

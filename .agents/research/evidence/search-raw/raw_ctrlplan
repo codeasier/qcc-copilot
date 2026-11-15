@@ -1,0 +1,7 @@
+TOTAL=6
+4	Siddardth7/quality-platform	Python	2026-11-07	-	Stable v1: AIAG core quality tools (FMEA, SPC, Control Plan, MSA/Gage R&R) as a closed loop over a shared typed core, callable by 
+2	HarshilShethna/PROFILE	-	2025-11-14	-	Quality Engineer experienced in Lean Six Sigma, APQP/PPAP, PFMEA, Control Plans, RCA/CAPA, Gage R&R, SPC, and process optimization
+1	imnoo-team/quality-control-plan-mcp	Dockerfile	2026-09-18	MIT	MCP server that generates quality control plans and inspection reports from technical-drawing PDFs — tolerances, fits, threads, GD
+0	aoyexiaoqi/fmeaflow	Python	2026-10-22	MIT	PFMEA and Control Plan consistency checker for manufacturing quality engineering
+0	genkidesu7/agentic-star-manufacturing-pfmea-to-control-plan-consistency-agent	Python	2026-09-23	MIT	Quality engineers at automotive and tier-supplier plants upload a PFMEA and its corresponding process control plan. The agent pars
+0	AegisNetLab/aegisnet-qualityflow	PHP	2026-06-15	NOASSERTION	A PHP and MySQL based quality management web application for Process Flow, PFMEA and Control Plan management.

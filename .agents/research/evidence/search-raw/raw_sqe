@@ -1,0 +1,19 @@
+TOTAL=18
+1	dixusharma7876-beep/F1-audit-ai-ml	CSS	2026-08-13	-	FI 11 Audit Observations (SqaPlatform) — Angular-based supplier quality inspection platform.  Features: audit observation entry fo
+0	KoalaTai/supplier-quality-guardian	Python	2024-08-03	-	An AI-powered tool for evaluating and managing supplier quality in the medical device industry, built with Google's Gemini Pro.
+0	eakarsu/ai-supplier-quality-capa-8d	JavaScript	2026-10-23	-	
+0	mickemora/supplier-quality-copilot	Python	2026-10-16	-	Gen AI supplier quality copilot for aerospace & defense: NCR/8D extraction, repeat root-cause detection, and cited SCAR drafting o
+0	orcunku/supplier-quality-8d-copilot	Python	2026-09-16	-	AI-powered Supplier Quality 8D Copilot that retrieves similar historical failures, root causes, corrective actions, and evidence-b
+0	suprajasharmaa/supplier-quality-performance-dashboard	-	2026-10-10	-	SQL + Excel + Power BI analysis of 777 procurement orders across 5 suppliers - identifying delivery, quality, and compliance risk 
+0	trantienit2015/agentic-star-supplier-quality-deviation-report-agent	Python	2026-09-25	MIT	AI agent for supplier quality deviation report, built with Agentic Star.
+0	sfc-gh-jasvestis/aws-thailand-automotive-supplier-quality	TypeScript	2026-10-10	NOASSERTION	Incoming-inspection quality analytics for 40 fictional automotive parts suppliers across 8 Thai cities on Snowflake, optionally wi
+0	TienXuanLam/agentic-star-retail-supplier-quality-sla-scorecard-agent	Python	2026-09-29	MIT	AI agent for retail supplier quality sla scorecard, built with Agentic Star.
+0	Athuleb/AI-Powered-SQP-DAS	-	2026-10-07	-	AI-Powered Supplier Quality Response and Document Automation System
+0	jgong2/fta7ai	HTML	2026-11-09	-	Website for FTA (fta7ai.com), a supplier quality consulting service: audits, assessments, CAPA/SCAR closure.
+0	joel5638/Recalltrace-ai	Python	2026-11-10	-	Conversational AI for supplier quality investigations, powered by LangGraph, evidence retrieval, agent workflows, and human approv
+0	Subham2102/ManufacturingAI	Python	2026-06-17	-	Build AI Lab — ADK + Gemini multi-agent systems for electronics manufacturing procurement (PO approval, SQDC shift handover, suppl
+0	Jix1wx/quality-engineering-prompts	-	2026-10-19	-	AI prompts for quality engineers: 8D reports, CAPA, root cause analysis, supplier quality, FMEA and IATF 16949 audits.
+0	Jix1wx/quality-blog	HTML	2026-10-19	-	Practical guides from the shop floor: 8D, CAPA, root cause analysis, supplier quality and AI in manufacturing quality.
+0	FATHIMALI/Procure_bot	JavaScript	2026-10-14	-	AI-powered procurement assistant for supplier quality analysis, purchase order tracking, compliance checks, RFQ generation, and co
+0	kolmag/sicc	Python	2026-06-24	-	AI-powered supplier portfolio intelligence — ML risk scoring (RandomForest + SHAP), hybrid RAG Q&A over supplier quality standards
+0	lucylow/evolve-autosight-dao-mobile	-	2026-09-16	MIT	EVOLVE Insight is a mobile-first AI manufacturing intelligence platform designed for automotive factories, Tier-1 suppliers, Tier-

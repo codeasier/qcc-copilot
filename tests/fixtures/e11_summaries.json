@@ -1,0 +1,48 @@
+{
+  "note": "虚构多成员摘要，含旧版本、重复与同版本冲突；用于 E11/US09 聚合验证",
+  "summaries": [
+    {
+      "schema_version": "1.0", "format_version": "1.0", "topic_id": "topic-A", "revision": 3,
+      "exported_at": "2026-11-01T09:00:00Z", "stage": "effect", "owner": "成员甲",
+      "problem": "多平台构建失败定位", "gaps": ["缺基线"], "next": "采集工时",
+      "benefit": { "status": "estimate" }, "reuse": { "status": "potential" },
+      "dimensions": { "value": "待核验", "reuse": "潜力", "method": "缺要因验证" }
+    },
+    {
+      "schema_version": "1.0", "format_version": "1.0", "topic_id": "topic-A", "revision": 4,
+      "exported_at": "2026-11-05T09:00:00Z", "stage": "standardize", "owner": "成员甲",
+      "problem": "多平台构建失败定位", "gaps": [], "next": "整理复用说明",
+      "benefit": { "status": "measured" }, "reuse": { "status": "adopted" },
+      "dimensions": { "value": "已支持", "reuse": "已采用", "method": "较完整" }
+    },
+    {
+      "schema_version": "1.0", "format_version": "1.0", "topic_id": "topic-A", "revision": 3,
+      "exported_at": "2026-11-06T09:00:00Z", "stage": "effect", "owner": "成员甲",
+      "problem": "多平台构建失败定位", "gaps": ["缺基线"], "next": "采集工时",
+      "benefit": { "status": "estimate" }, "reuse": { "status": "potential" },
+      "dimensions": { "value": "待核验", "reuse": "潜力", "method": "缺要因验证" }
+    },
+    {
+      "schema_version": "1.0", "format_version": "1.0", "topic_id": "topic-A", "revision": 4,
+      "exported_at": "2026-11-07T09:00:00Z", "stage": "effect", "owner": "成员甲",
+      "problem": "另一份不同内容的同版本摘要（冲突）", "gaps": ["冲突"], "next": "待确认",
+      "benefit": { "status": "estimate" }, "reuse": { "status": "potential" },
+      "dimensions": { "value": "冲突", "reuse": "冲突", "method": "冲突" }
+    },
+    {
+      "schema_version": "0.9", "format_version": "0.9", "topic_id": "topic-B", "revision": 1,
+      "exported_at": "2026-11-02T09:00:00Z", "problem": "未知版本摘要", "gaps": [], "next": ""
+    },
+    {
+      "schema_version": "1.0", "format_version": "1.0", "revision": 2,
+      "exported_at": "2026-11-03T09:00:00Z", "problem": "缺少课题标识的摘要"
+    }
+  ],
+  "expectations": {
+    "topic-A_final_revision": 4,
+    "conflicts_detected": 1,
+    "invalid_rejected": 2,
+    "older_revision_no_rollback": true,
+    "duplicate_no_double_count": true
+  }
+}

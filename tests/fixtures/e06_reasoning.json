@@ -1,0 +1,18 @@
+{
+  "topic": {
+    "problem": "流水线偶发失败，定位慢",
+    "cause_hypotheses": [
+      { "id": "c1", "text": "日志分散导致定位慢", "evidence_type": "correlation_coefficient", "value": 0.72, "verified": false }
+    ],
+    "countermeasures": [
+      { "id": "m1", "text": "增加一条自动通知", "linked_cause_id": null }
+    ],
+    "implementation": [ { "id": "i1", "text": "通知已上线" } ],
+    "effect": [ { "id": "f1", "text": "尚无前后对比测量" } ]
+  },
+  "expectations": {
+    "correlation_not_causal": true,
+    "countermeasure_without_verified_factor": "gap",
+    "must_suggest": ["现场/工程验证", "补充关联"]
+  }
+}

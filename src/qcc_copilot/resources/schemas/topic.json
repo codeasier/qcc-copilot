@@ -1,0 +1,32 @@
+{
+  "type": "topic",
+  "version": "1.0",
+  "id_field": "topic_id",
+  "description": "课题档案：事实源、阶段、主张、任务与下一步",
+  "required": {
+    "schema_version": "str",
+    "topic_id": "str",
+    "revision": "int",
+    "rule_profile": "dict",
+    "claims": "list",
+    "tasks": "list",
+    "next": "str"
+  },
+  "optional": {
+    "title": "str",
+    "owner": "str",
+    "problem": "dict",
+    "status": "dict",
+    "sources": "list",
+    "calculations": "list",
+    "reuse": "dict",
+    "deliveries": "list",
+    "feedback": "list",
+    "events": "list",
+    "dependencies": "list",
+    "created_at": "str",
+    "updated_at": "str",
+    "content_hash": "str"
+  },
+  "enums": {}
+}

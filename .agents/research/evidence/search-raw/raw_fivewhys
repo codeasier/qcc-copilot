@@ -1,0 +1,11 @@
+TOTAL=10
+0	siddilabs/llm-works	-	2025-10-10	MIT	to understand  5 whys about llms
+0	Kasugai-architect/Cat-Scan-Protocol-Schr-dinger-s-5-Whys-for-LLM-Alignment	-	2026-03-11	-	
+0	huijae1234/problem-lab	HTML	2026-10-14	-	막연한 불편을 풀 수 있는 문제 한 문장으로 다듬는 로컬 AI 도구(5 Whys)
+0	atpepslte8-eng/semantic-agent	Python	2026-02-05	-	An AI agent framework that actually learns - persistent memory, 5 WHYs diagnosis, reasoning escalation, pluggable LLM brains
+0	Sviless/ai-root-cause-coach	Python	2026-08-04	MIT	AI Root Cause Coach - local-first Lean root cause analysis (Streamlit): 5 Whys, fishbone, cause/evidence matrix, countermeasures, 
+0	brunolsalvadori/critical-thinking-coach	-	2026-10-26	MIT	Critical Thinking coach system prompt: guides users through a 5-step method (5 Whys, Empathy Maps, Roleplay & Tensions, Problem St
+0	saikrish-code/Root-Cause-Analysis	Python	2026-11-08	-	AI-powered Root Cause Analysis platform for quality investigations. Upload PDFs or paste incident details to extract data, run 5 W
+0	developerbaha/BGTS_Case	Python	2026-06-04	-	ITSM RCA Agent — MCP ile ticket çeken, offline LLM (vLLM/Qwen3.6-35B) ile analiz eden, 10 KB üzerinde RAG sorgulayan ve LangGraph 
+0	PratikPatil2345/Pharma-Customer-Complaint-Management-System	JavaScript	2026-07-23	-	AI-Powered Customer Complaint Management System for pharmaceutical manufacturing (API & FDF). Built with React, Redux Toolkit, Fas
+0	SherryLi-vc/socratic-coach	-	2026-10-31	MIT	Cross-agent Socratic coaching skill: clarify vague goals with 5 Whys + Golden Circle before solutions. For any AI agent that suppo

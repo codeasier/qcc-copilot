@@ -1,0 +1,5 @@
+TOTAL=4
+1	Erwinya/qms-ncr-service	Java	2026-11-11	MIT	Quality Management System - Nonconformance Report (NCR) REST API
+0	MarusFaulkner/ncr-dashboard	HTML	2026-10-29	-	Interactive NCR dashboard for tracking manufacturing nonconformances, dispositions, severity, aging, and quality trends.
+0	Reaper77777/nonconformance-report-tracker	-	2026-07-29	-	Excel NCR tracker for nonconformance logging, containment, disposition, due dates, and quality action follow-up.
+0	MarusFaulkner/ncr-analytics	Python	2026-10-31	-	Python and Streamlit dashboard for analyzing nonconformance report trends, severity, aging, and quality performance.

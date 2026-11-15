@@ -1,0 +1,26 @@
+TOTAL=227
+508	mmontag/chip-player-js	C	2026-11-13	GPL-3.0	Web-based music player for a variety of video game and chiptune music formats.
+246	bazz1tv/snestracker	C++	2022-05-02	GPL-3.0	Super Nintendo Entertainment System Music Software. Super Famicom Music Software
+244	carlosqsilva/pyspc	Python	2023-01-12	GPL-3.0	Statistical Process Control Charts Library for Humans
+76	AUS-DOH-Safety-and-Quality/PowerBI-SPC	TypeScript	2026-11-12	GPL-3.0	A free and open-source PowerBI custom visual for SPC charts
+69	jchester/spc-kit	PLpgSQL	2025-08-17	AGPL-3.0	A toolkit for statistical process control using SQL
+62	nhs-r-community/NHSRplotthedots	R	2026-11-06	NOASSERTION	An SPC package to support NHS England's 'Making Data Count' programme
+52	Kazhuu/spc-player	C++	2023-07-21	MIT	SNES music player in your browser with original hardware and Arduino.
+48	liyonghuan/online-statistical-process-control-system	C#	2019-09-27	-	:cupid::alien::sunglasses:在线统计过程控制系统(online SPC system)，毕业设计课题是《基于SPC的产品质量在线分析系统》，非常非常非常认真并且花了非常非常非常多的时间才完成的，虽然代码写的很难看，但功能也算是齐备了，希
+47	link-it/govpay	Java	2026-11-14	GPL-3.0	Porta di accesso al sistema pagoPA
+47	RBraga01/Quality-Engineering-Skills	JavaScript	2026-11-14	MIT	23 quality engineering skills and 8 agents for AI — ISO 9001, IATF 16949, AIAG-VDA FMEA, VDA 6.3, PPAP, APQP, SPC, MSA
+34	huft-jonathan/pyshewhart	Python	2026-07-20	MIT	Python module for creating Shewhart statistical process control charts
+25	zen-crab/SPC-PLAYER	C	2023-08-27	GPL-2.0	Plays SNES music files
+21	emilopezcano/SixSigma	R	2023-04-19	-	SixSigma R package
+20	dingyiyi0226/spc	Shell	2022-05-16	MIT	A scp wrapper to manage across multiple remote machines
+17	factorysemantics/factorysemantics-mes	Python	2026-11-15	Apache-2.0	An open-source, modular, agent-native Manufacturing Execution System. OPC UA in, honest OEE out, an ERPNext connector and an MCP a
+16	MatthewCallis/spc.js	C++	2019-04-29	-	A decoder/demuxer for Aurora.js to play Super Nintendo (SNES) SPC-700 files.
+16	lesiayanytska78/ci-monitoring-simulation	Python	2026-10-26	MIT	Calibrated simulation and detectors for MES-embedded carbon-intensity monitoring of energy anomalies in machining-style processes.
+15	M1ndSmith/ASPC	Python	2026-08-17	MIT	AI-powered Statistical Process Control, MSA, and Process Capability analysis. Upload data, ask in plain English, get charts and re
+13	HertzDevil/AddmusicK	C++	2018-11-01	-	MML Compiler-Inserter for Super Mario World
+13	KensoBI/spc-chart	TypeScript	2026-08-23	AGPL-3.0	A Grafana panel plugin for monitoring process stability over time. Supports Xbar-R, Xbar-S, and XmR charts with automatic calculat
+12	kaishuu0123/chibisnes	Go	2023-07-23	MIT	SNES emulator written in Go. (based on LakeSNES)
+12	kgdunn/pid-book	Python	2026-11-15	CC-BY-SA-4.0	Source repository for the open-access, free book Process Improvement using Data.
+11	bingyun123/custom_chart_viz	JavaScript	2022-10-13	MIT	Custom Chart Viz for splunk is built upon Apache ECharts library. It allows you to build a chart by custom option
+10	niekvlessert/vgmplay-js-2	Assembly	2026-08-12	MIT	Video Game Music player for the web that is easy to use, tries to support every format.
+9	NewCreature/Original-Music-Organizer	C	2026-11-08	-	Organize and Play Your Music Collection

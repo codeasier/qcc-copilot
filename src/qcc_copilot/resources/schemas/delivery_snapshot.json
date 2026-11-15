@@ -1,0 +1,25 @@
+{
+  "type": "delivery_snapshot",
+  "version": "1.0",
+  "id_field": "delivery_id",
+  "description": "交付快照：固定课题/规则/证据/计算清单，历史材料不被当前数据改写",
+  "required": {
+    "schema_version": "str",
+    "delivery_id": "str",
+    "topic_id": "str",
+    "topic_revision": "int",
+    "content_hash": "str",
+    "rule_profile": "dict",
+    "sources": "list",
+    "calculations": "list"
+  },
+  "optional": {
+    "claims": "list",
+    "created_at": "str",
+    "material_status": "str",
+    "checks": "dict"
+  },
+  "enums": {
+    "material_status": ["draft", "review-ready"]
+  }
+}

@@ -1,0 +1,47 @@
+# QCC AI 生态调研 · 检索参数快照
+# 采集时间: 2026-11-15  |  执行: ./collect.sh search
+# 格式: <GitHub 搜索 query>|<结果文件名标签>
+
+## 批次 1 · QCC 本体与问题解决方法论
+"quality control circle"|qcc_en
+"QC circle"|qccircle
+fishbone ishikawa|fishbone
+"root cause analysis" agent llm|rca_agent
+"8D" quality corrective action|eightd
+capa quality|caoa
+
+## 批次 2 · 五大工具 / 体系 / 供应商质量
+FMEA llm|fmea_llm
+APQP PPAP|apqp
+"control plan" quality manufacturing|ctrlplan
+"ISO 9001" audit ai|iso9001ai
+"IATF 16949"|iatf
+nonconformance NCR quality|ncr
+"supplier quality" ai|sqe
+"quality copilot"|qc_copilot
+
+## 批次 3 · DMAIC / 5Why / Topic 检索
+DMAIC agent|dmaic
+"5 whys" llm|fivewhys
+"quality management" agent llm|qm_agent
+topic:quality-management|t_qm
+topic:qms|t_qms
+topic:spc|t_spc
+topic:six-sigma|t_sixsigma
+topic:fmea|t_fmea
+
+## 批次 4 · 中文口径与统计工具
+"质量" 智能体|zh_agent
+"品质管理" AI|zh_qm
+Cpk 分析工具|cpk
+"不良" 分析 python|defect_analysis
+nursing quality improvement ai|nursing_qi
+"PDCA" llm|pdca_llm
+"quality inspection" agent|qi_agent
+
+## 批次 5 · Kaizen / MCP / Topic:qcc
+kaizen agent|kaizen
+"quality" mcp server|q_mcp
+"quality management" mcp|qms_mcp
+topic:qcc|t_qcc
+"lean manufacturing" ai|lean_ai

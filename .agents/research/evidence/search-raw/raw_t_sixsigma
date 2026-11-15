@@ -1,0 +1,26 @@
+TOTAL=150
+283	joelparkerhenderson/maturity-models	-	2026-08-20	-	Maturity models for IT, Agile, DevOps, TOGAF, Six Sigma, P3M3, etc.
+22	kgdunn/process-improve	Python	2026-11-15	MIT	Python toolkit for analysis of industrial process data; multivariate analysis, designed experiments, process monitoring.
+21	emilopezcano/SixSigma	R	2023-04-19	-	SixSigma R package
+13	KensoBI/spc-chart	TypeScript	2026-08-23	AGPL-3.0	A Grafana panel plugin for monitoring process stability over time. Supports Xbar-R, Xbar-S, and XmR charts with automatic calculat
+13	timothyfraser/sysen	Python	2026-11-10	MIT	Course repository for learning R or Python for Cornell course SYSEN 5300: Systems Engineering and Six Sigma  for the Design and Op
+12	robustagile/six-sigma-in-r-skill	-	2026-04-17	Apache-2.0	AI skill for Claude Code and Codex that helps agents write correct R for Six Sigma and SPC work, including control charts, capabil
+10	SamruddhiGoswami/LeanProcessImporovement	-	2020-08-09	-	I improved customer experience at the Indian Market located in Milpitas using Lean Six Sigma techniques. The primary focus of this
+10	sigmatbot/sigmabot	Python	2022-06-12	GPL-3.0	cryptocurruency trading bot 
+9	MartinsAwojide/Process-System-Engineering-Catalogue	-	2024-02-17	MIT	Catalogue of Articles, Projects, Papers and Resources relating to PSE
+8	gh-BumsooKim/Object-Background-Region-Separation-in-Depth-Image-using-k-Means-Clustering-Algorithm	Python	2021-11-10	MIT	Preliminary Study for Depth Segmentation, this paper will be proceeding in KISM2021-Fall
+8	j4ggr/DaSPi	Python	2026-11-06	BSD-3-Clause	Process Analytics & Six Sigma in Python — integrated workflows for capability analysis, root cause analysis, and statistical proce
+8	tertiarycourses/TGS-2025055775-Certified-Lean-Six-Sigma-Green-Belt-CLSSGB-Training	Python	2026-10-20	-	WSQ Certified Lean Six Sigma Green Belt (CLSSGB) Training (TGS-2025055775) — 4-day / 32-hour DMAIC course with 25 hands-on activit
+7	srebughini/ASALIX	Python	2026-10-23	GPL-3.0	A comprehensive collection of mathematical tools and utilities designed to support Lean Six Sigma practitioners in their process i
+7	petermgates/py-qcc	Python	2024-05-10	GPL-3.0	Quality Control Charts in Python. Inspired by the R qcc package.
+7	tanmoyie/Quality-Control	-	2018-10-13	-	This repository is a supplementary source of Quality Management.
+5	DailyDana/process-capability-analyzer	Python	2026-10-23	Apache-2.0	SPC, process capability and Gage R&R for manufacturing: X-bar/R, X-bar/S and I-MR charts with Western Electric and Nelson rules, C
+5	Jesse-DataDriven/02.Price-Prediction-Algorithm	Jupyter Notebook	2026-03-06	MIT	Project to predict price pass-through, contributing to the company's Revenue area, to predict the ideal SKU value based on various
+4	Jesse-DataDriven/04.Scrum-SquadPerformance-Front	Jupyter Notebook	2026-03-07	MIT	This project, integrated with DevOps and JIRA, is capable of demonstrating and ensuring visibility of sprint deliverables and task
+4	KensoBI/spc-histogram	TypeScript	2026-07-14	AGPL-3.0	Histogram panel with SPC control limits, bell curves, and capability indices.
+4	Jesse-DataDriven/05.NLP-Insights-topics-classifier	Jupyter Notebook	2026-01-13	MIT	Project utilizing Artificial Intelligence, NLP with expression cloud modeling, an Attrition propensity panel, and integration with
+4	virbahu/dmaic-toolkit	Python	2026-03-20	NOASSERTION	Lean Six Sigma DMAIC toolkit statistical tests
+4	nealwidener/monozukuri	Python	2026-06-04	NOASSERTION	A free, open council of 13 voices grounded in the people who built lean and quality: Deming, Ohno, Shingo, Juran, and more. Coil w
+3	bertanucar/shewhart	Python	2026-06-17	MIT	The statistical process control library for Python. Validated against published reference data.
+3	tertiarycourses/TGS-2024051900-Certified-Lean-Six-Sigma-Black-Belt-CLSSBB-Training	Python	2026-10-20	-	WSQ Certified Lean Six Sigma Black Belt (CLSSBB) Training, TGS-2024051900. 5-day practitioner course with 34 hands-on activity pac
+3	Jesse-DataDriven/09.sla-risk-predictor	-	2026-03-06	MIT	A project focused on continuous improvement for people management and operational performance, capable of predicting penalties for

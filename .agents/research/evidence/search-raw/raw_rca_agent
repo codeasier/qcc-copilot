@@ -1,0 +1,26 @@
+TOTAL=167
+54	avivl/cloud-sre-agent	Go	2026-06-29	MIT	An autonomous SRE agent that monitors cloud logs across multiple platforms, leveraging AI models from various providers to detect 
+39	yuchuangu85/llm-anr	Python	2026-11-04	-	Agent-driven Android ANR evidence extraction and AI-assisted root cause analysis pipeline.
+16	evalvitals/evalrx	Python	2026-11-14	NOASSERTION	Autonomous failure investigation, root-cause analysis, and validated interventions for LLMs, VLMs, and agents.
+8	darshannere/tracea	Python	2026-07-13	MIT	Trace, detect, and debug AI agents — self-hosted observability with LLM session tracking, rule-based issue detection, and AI-power
+8	pkusnail/AIOpsPolaris	Python	2025-09-01	Apache-2.0	AIOps experiment system, next-generation AIOps platform powered by LLM, Multi-Agent architecture and RAG technology. Intelligent r
+6	colingfly/sparse-eval	Python	2026-11-08	MIT	Reliability evaluation for AI agents, APIs, and pipelines. LLM-judged scoring, schema validation, latency profiling, failure minin
+4	zihan154896-jpg/aiops-agent-platform	Python	2026-09-08	-	Multi-agent AIOps platform for root cause analysis, controlled remediation, and evaluation | FastAPI, LangGraph, React
+4	wuyingchao1177/rootcause-agent	Python	2026-09-23	MIT	Token-efficient Root Cause Analysis agent: log/code compression + LLM reasoning, benchmarked on RCAEval (565 cases) & LogDx-CI
+4	soul-bits/rca-agent	Python	2026-05-18	-	Observability agentic AI & AI agents for RCA (root cause analysis) on distributed systems. LangGraph + LLM ingest Prometheus alert
+4	arshad234567/Breach-Monitor-AI	Jupyter Notebook	2026-04-20	-	AI-powered Market Risk Breach Investigation System built using a multi-agent architecture. Simulates real-world banking scenarios 
+3	raghavnimbalkar1/Agentic-GraphRAG-for-Root-Cause-Analysis-	Python	2026-11-01	-	Graph-structured retrieval and skill-graph reasoning over cascading failure traces in large-scale cloud microservices. Built on La
+3	GreptimeTeam/agent-rca-bench	HTML	2026-09-11	Apache-2.0	Paired benchmark measuring how the observability interface behind an LLM agent changes root cause analysis
+3	ahmedadel248/OPSLENS-AI	Python	2026-06-30	-	OpsLens AI is a multi-agent AIOps system for Kubernetes incident investigation. It collects metrics, logs, Kubernetes events, and 
+3	huanghy95/OpsLens	Python	2026-10-22	-	Official code for OpsLens (ASE 2026): Runbook-Free Root Cause Analysis via Multi-agent Collaboration and Tool Management. LLM-base
+3	kripikroli/specops-ai	Python	2026-05-19	MIT	SpecOps AI — Framework-agnostic, OpenTelemetry-native toolkit for reliable, evaluatable, debuggable, and self-healing LLM agents i
+2	timyl/aiops-agent	Python	2026-05-30	-	Autonomous AIOps agent for 5G NF registration failure detection, root cause analysis, and self-healing via LangGraph + LLM + RAG
+2	DiogoRibeiro7/ai-incident-analysis-agent	Python	2026-11-02	MIT	AI incident analysis agent over logs and metrics with anomaly detection, correlation, root-cause analysis, and LLM-assisted report
+2	EvanTian233/GALA-for-RCA	Python	2026-07-28	MIT	GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices [ASE 2026]
+2	immortal71/tracebench	Python	2026-08-17	MIT	RCAgentBench: a benchmark measuring how tool design and agent instructions affect LLM agents doing root cause analysis on distribu
+2	L-N-X-1/ORION	TypeScript	2026-09-07	MIT	Autonomous 5G/6G Network Operations Center — digital twin + multi-agent AI for closed-loop incident detection, root cause analysis
+2	Kantamaniprakash/supply-chain-aip	Python	2026-10-13	MIT	AI-powered supply chain disruption intelligence agent built on Palantir Foundry + AIP — real-time risk scoring, LLM-driven root ca
+1	Roshan5105labs/aegismind-agentic-rca	Python	2026-07-20	MIT	Evidence-grounded Qwen agent society for root-cause analysis across distributed applications and LLM runtimes.
+1	jaykuma007/SRE-incident-response-agent	Python	2026-07-13	MIT	Agentic AI for SRE incident response — triage, root cause analysis, and remediation, deployable on Kubernetes
+1	bolongpa/logroot-agent	Python	2026-09-30	MIT	LLM agent for log anomaly detection and root-cause analysis: heuristic detectors plus a tool-calling investigation loop
+1	OmerEdry/Chatops-incident-agent	Python	2026-07-05	MIT	Autonomous AI agent leveraging a Dual-LLM architecture (Gemini & Claude) for automated log triage and root-cause analysis.

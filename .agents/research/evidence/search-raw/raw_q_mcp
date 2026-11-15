@@ -1,0 +1,26 @@
+TOTAL=734
+2830	crbnos/carbon	TypeScript	2026-11-15	NOASSERTION	Open-source manufacturing ERP, MES and QMS. Quoting, MRP, inventory, shop floor, quality and lot/serial traceability on one Postgr
+2543	redhat-et/ripwire	C++	2026-11-15	Apache-2.0	The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Cut agent token costs by finding code witho
+1571	slothflowlabs/duckle	Rust	2026-11-13	Apache-2.0	Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 426 compon
+689	SonarSource/sonarqube-mcp-server	Java	2026-11-14	NOASSERTION	Official SonarQube MCP Server for code quality and security in AI agents
+214	jpicklyk/task-orchestrator	Kotlin	2026-11-14	MIT	Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates
+192	minipuft/claude-prompts-mcp	TypeScript	2026-11-14	MIT	MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with an operato
+190	shinpr/mcp-image	TypeScript	2026-11-13	MIT	MCP server for AI image generation and editing with automatic prompt optimization and quality presets. Supports Nano Banana (Gemin
+138	AuthBits/webmcp	Python	2026-04-10	MIT	A lightweight, prompt-driven MCP web research server for high-quality LLM powered information extraction.
+108	PentesterFlow/OffensiveSET	TypeScript	2026-04-02	MIT	Offensive Security Dataset Generator — MCP server for generating high-quality pentesting conversation datasets for LLM fine-tuning
+105	Astoriel/dbt-doctor	Python	2026-09-29	MIT	AI-driven quality & governance MCP Server for dbt projects. Audit coverage, profile data, detect schema drift, and auto-generate d
+100	optave/ops-codegraph-tool	TypeScript	2026-11-13	Apache-2.0	Code intelligence CLI — function-level dependency graph across 34 languages, 34-tool MCP server for AI agents, complexity metrics,
+84	the911fund/skill-of-skills	Python	2026-11-15	MIT	The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Windsurf, Cli
+82	DataKitchen/dataops-testgen	Python	2026-11-13	Apache-2.0	Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedu
+75	bitDive/mcp-server	Python	2026-05-30	-	BitDive Model Context Protocol (MCP) server. The Autonomous Quality Loop for AI agents. Provides real runtime context, before/afte
+74	MarcelRoozekrans/roslyn-codelens-mcp	C#	2026-11-14	MIT	Roslyn-based MCP server giving AI agents deep semantic understanding of .NET/C# codebases — 67 tools for navigation, call graphs, 
+71	yfedoseev/fossil-mcp	Rust	2026-06-22	Apache-2.0	The code quality toolkit for the agentic AI era. Find dead code, clones, and scaffolding across 15 languages. MCP server + CLI.
+56	weather-mcp/weather-mcp	TypeScript	2026-11-14	MIT	Free, open-source MCP server giving AI assistants 17 weather tools — a one-call weather summary plus forecasts, alerts, air qualit
+50	danyQe/codebase-mcp	Python	2026-10-29	Apache-2.0	Open-source MCP server that gives Claude Desktop local semantic code search, persistent memory and a quality-checked edit pipeline
+43	mcp-box/mcpscore	Python	2026-11-14	MIT	Lighthouse for MCP — score any MCP server 0–100.
+40	agenticcontrolio/twincat-validator-mcp	Python	2026-03-01	MIT	An MCP server that validates, auto-fixes, and scaffolds TwinCAT 3 XML files. Connect it to any LLM client to give your AI assistan
+40	raye-deng/open-code-review	TypeScript	2026-04-16	NOASSERTION	🤖 AI code quality gate for AI-generated code. Detects hallucinated packages, phantom dependencies, stale APIs, and more. MCP Serve
+35	k4zuki0539/-rpgmaker-mz-mcp	TypeScript	2025-10-19	-	High-quality MCP server for RPG Maker MZ integration
+29	vetcoders/mcp-server-semgrep	TypeScript	2026-11-10	MIT	MCP Server Semgrep is a [Model Context Protocol](https://modelcontextprotocol.io) compliant server that integrates the powerful Se
+27	RobertoDure/mcp-latex-server	Python	2026-11-12	-	A Model Context Protocol (MCP) server for LaTeX authoring: create and edit documents, analyze multi-file projects, validate struct
+27	pinkpixel-dev/deep-research-mcp	JavaScript	2026-07-13	Apache-2.0	A Model Context Protocol (MCP) compliant server designed for comprehensive web research. It uses Tavily's Search and Crawl APIs to

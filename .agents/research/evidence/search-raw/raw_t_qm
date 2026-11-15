@@ -1,0 +1,26 @@
+TOTAL=283
+46	kuaigeyun/kuaigeyun-mes	TypeScript	2026-10-21	NOASSERTION	快格云制造MES 是一个功能完整的制造执行系统（Manufacturing Execution System），专为生产型企业数字化转型设计。基于RiverEdge框架，使用现代化的技术栈（FastAPI + React），提供生产计划、工单管理、质量追溯、设
+30	jonaesantos/odoo-qms-iso9001	Python	2026-06-03	AGPL-3.0	ISO 9001 Quality Management System
+18	VDA231-301/VDA231-301	-	2026-11-11	MIT	This JSON schema defines how to exchange material sampling test results across supply chains fullfilling the VDA 231-301 recommend
+17	AliakseiT/dearauditor-qms-baseline	Python	2026-10-28	NOASSERTION	Open-source, GitHub-native eQMS baseline for medical device and regulated software teams. Issues, PRs, Actions, and Releases form 
+13	lk-learner/Google-Project-Management-Professional-Certificate	-	2024-04-30	-	Documentation for Google Project Management Professional Certificate
+13	cleverlab-ai/iso-17025-skill	-	2026-03-05	MIT	ISO/IEC 17025:2017 expert consultant skill for AI agents (Claude Code, Cursor, Copilot & 30+ tools)
+13	alexandrecuer/sharebox	Ruby	2024-10-31	AGPL-3.0	CRM - Storage - Dropbox - Cloud management - Sharing(file) system - sharebox - a limesurvey like
+10	qase-tms/QA	SCSS	2024-02-12	NOASSERTION	All things Quality Assurance
+7	MbedLabs/bloom	Python	2026-11-15	NOASSERTION	Bloom by EmbedLabs: Product lifecycle management for requirements, risks, change, verification, traceability, and engineering evid
+7	VDA231-301/VDA_231-301__SEP_1240	-	2026-06-19	MIT	json schema for data exchange test results sep 1240
+7	VDA231-301/VDA_231-301__VDA_278	-	2026-11-10	MIT	Specific JSON Schema for digital exchange VDA 278 test results
+6	VDA231-301/VDA_231-301__EN_10204	-	2026-08-10	MIT	Specific JSON schema for digital exchange of EN 10204 data including Inspection Certificate 3.1
+6	spiderjad/SpiderFolio	TypeScript	2026-11-10	NOASSERTION	Open-source, self-hosted internal documentation and document management system for small and mid-sized businesses, factories and w
+5	Tannie-80/OpenMES	Python	2026-09-02	Apache-2.0	通用制造执行系统（MES）：BOM/计划/生产执行/追溯/防错/仓储/设备采集/质量/看板报表/权限矩阵。Apache-2.0
+5	ishandutta2007/Awesome-Medical-Device-Quality-Management	-	2026-09-19	MIT	Top Medical Device Quality Management (Opensource) 🌟 Star if you like it! 🌟
+5	pricyproject/testmona	TypeScript	2026-11-13	NOASSERTION	TestMona is an AI test management system and free TMS.
+4	duding-engicool/skill-spc-analysis	Python	2026-08-24	-	SPC统计过程控制分析；当用户需要对制造业生产过程进行质量监控、过程稳定性评估、异常点识别、多周期数据对比分析时使用
+4	VDA231-301/VDA231-300	-	2026-04-07	MIT	description and embedding of material and surface requirements in the 3D data set
+4	VDA231-301/schemas	HTML	2026-09-09	-	
+4	Techmentis/FlinkISO-QMS-Updates	PHP	2026-11-13	-	This repository is only to publish FlinkISO QMS updates
+4	bivex/congenial-parakeet-iso9001	Go	2025-12-30	MIT	ISO 9001:2015 Quality Management System GO SDK
+3	duding-engicool/skill-qc-tools	Python	2026-09-06	-	质量管理QC手法辅助工具；支持柏拉图、鱼骨图、直方图、控制图、散布图等图表自动生成；用户需进行质量分析、问题诊断或数据可视化时使用；覆盖QC七大手法
+3	teamzz111/SGC_RGM	PHP	2026-10-07	-	Quality management system (2018) for document control, users, surveys and roles, built with Angular, PHP and MySQL.
+3	tertiarycourses/TGS-2024051900-Certified-Lean-Six-Sigma-Black-Belt-CLSSBB-Training	Python	2026-10-20	-	WSQ Certified Lean Six Sigma Black Belt (CLSSBB) Training, TGS-2024051900. 5-day practitioner course with 34 hands-on activity pac
+2	tinnakornm/manufacturing-use-case-library	-	2026-07-23	-	Manufacturing knowledge, business rules, core modules, and practical use cases from real factory operations.

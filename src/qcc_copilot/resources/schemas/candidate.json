@@ -1,0 +1,23 @@
+{
+  "type": "candidate",
+  "version": "1.0",
+  "id_field": "candidate_id",
+  "description": "候选卡：依据、价值、共性、约束、未知项；资料不足允许零候选",
+  "required": {
+    "schema_version": "str",
+    "candidate_id": "str",
+    "problem": "str",
+    "sources": "list"
+  },
+  "optional": {
+    "value_hypothesis": "str",
+    "common_scenarios": "list",
+    "constraints": "list",
+    "unknowns": "list",
+    "validation_suggestions": "list",
+    "beneficiaries": "list",
+    "dedup_key": "str",
+    "relations": "list"
+  },
+  "enums": {}
+}

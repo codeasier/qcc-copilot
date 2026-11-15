@@ -1,0 +1,31 @@
+TOTAL=213
+53	AndrewAndrea/spider_demo	HTML	2021-02-20	-	个人爬虫、逆向练习代码。文书web、app；facebook；毒；省市地区数据抓取，qcc 类似ob混淆, tb 滑动 demo，头条_signature等参数
+43	maekawatoshiki/qcc	C++	2017-04-10	MIT	qcc is a small toy C compiler
+14	tomhopper/qcc_ggplot	R	2017-12-30	MIT	Rewrite of plot.qcc (from the qcc package) using ggplot and grid.
+8	duhu2000/qcc-agent-cli	JavaScript	2026-10-22	MIT	QCC CLI
+7	petermgates/py-qcc	Python	2024-05-10	GPL-3.0	Quality Control Charts in Python. Inspired by the R qcc package.
+4	cran/qcc	HTML	2017-07-11	-	:exclamation: This is a read-only mirror of the CRAN R package repository.  qcc — Quality Control Charts. Homepage: https://github.com/luca-scr/qcc  
+3	qccio/QccWallet	Java	2026-03-14	-	qcc java 钱包
+3	TokawaYui/QCC-Crawl-Scripts	Python	2025-02-10	-	This repository is used to design a crawl bot to do some data mining on QCC website
+3	HaoyuCao/QCC_MAS	Python	2026-05-20	MIT	(MICCAI 2026 Early Accept) QCC: Quantify-Collect-Correct — A closed-loop multi-agent framework for evidence-driven emergency diagnosis 
+2	DGDL/QCC	Python	2020-09-17	-	www.qcc.com
+2	bsosnovski/WeBWorK	Python	2024-03-29	-	Repository for QCC-CUNY WeBWorK
+2	nickgovier/qcc-VS2019	C	2021-02-26	GPL-2.0	id Software original qcc QuakeC compiler in VS2019
+2	intranautic/qcc	C	2024-11-05	MIT	qcc is a retargetable, optimizing and self-hosting C compiler. (WIP)
+2	FatherTimeSDKP/FatherTimeSDKP-	Python	2026-09-30	NOASSERTION	Donald Paul Smith – “Father Time” Founder of the SDKP Framework | Originator of Unified Scientific Principles  Donald Smith is the creator of the Scal
+2	FatherTimeSDKP/Quantum-entanglement-predictions-because-of-the-SDKP	TypeScript	2026-09-21	-	A decentralized scientific licensing platform built on the SDKP–EOS–SD&N–QCC framework by Donald Paul Smith (Father Time). This app enables researcher
+1	factorialmap/controle_estatistico_processo	HTML	2024-07-27	-	Controle estatístico de processos | ferramentas da qualidade | R, qcc, qic
+1	Rland12/qcc-mockup	-	2019-02-13	-	qcc 
+1	qccio/qcc_flutter	Dart	2026-06-02	NOASSERTION	qcc-flutter wallet qcc chain http api
+1	2002steef/qccs	HTML	2023-02-02	-	qccs beta omgeving
+1	egaki/rpa_demand3_qcc	Python	2022-03-12	-	rpa_demand3_qcc
+1	merlock18/billsTravel	HTML	2023-02-26	-	qcc front end bootcamp 
+1	Tanknam/qcc-quantum-computing-club	Jupyter Notebook	2025-04-03	-	Repository for Quantum Computing Club (QCC) @ NTU
+1	GeorgeCuenca/Control-de-bandejas	HTML	2025-09-03	-	registras los ingresos y salidas de las bandejas de QCC
+1	yidingwanglnsy-boop/qckit	Vue	2026-09-14	NOASSERTION	QCC质量工具(智能联想版)
+1	mstroehle/quality_control_chart_rules	-	2017-04-10	-	A package to apply a list of standard QCC rules to time series data. 
+1	Brooksw453/BlackboardAIRepo	Python	2024-04-15	MIT	This repo controls the github pages and live deployment for the QCC Blackboard Ultra AI
+1	roy7/fqcc	QuakeC	2026-09-12	GPL-2.0	fqcc 1.02 - Fast QuakeC Compiler (1997), a faster drop-in replacement for id Software's qcc
+1	duding-engicool/skill-qcc-activity-assistant	Python	2026-09-06	-	QCC课题发表PPT的辅助生成技能；当用户需要准备QCC发表、生成发表PPT、撰写讲稿、进行发表前检查时使用
+1	FatherTimeSDKP/Cosmic-rotation-pipeline	TeX	2026-08-20	NOASSERTION	Enhanced Cosmic Rotation Pipeline",   "description": "SDKP–SD&N–QCC–EOS cosmological modeling with dual-mode rotation and Kerr–EC bounce analysis",   
+1	charlene127/Consent_Signing_System	-	2021-04-11	-	專案-QCC品質指標競賽 - 數位化同意書簽署系統   #Web Service    #Xamarin.Forms APP  #WinForm

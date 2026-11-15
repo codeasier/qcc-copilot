@@ -1,0 +1,31 @@
+TOTAL=1621
+403	mosheng1/QcClip	Rust	2026-11-14	Apache-2.0	QcClip 是一款使用纯 Rust、基于 GPUI 框架原生渲染的高性能剪贴板工具
+335	zhaoboy9692/qccspider	Python	2022-12-08	-	企查查企业信息爬虫 ，企查查app每日新增企业抓取,可以进行每日的增量抓取、企业数据、工商数据等等。
+133	Marchematics/qcc-transformer	-	2026-10-30	MIT	
+122	qcc4cp/qcc	C++	2026-11-10	Apache-2.0	Source code for the book "Quantum Computing for Programmers", Cambridge University Press
+61	luca-scr/qcc	R	2026-09-08	-	An R package for Quality Control Charts
+43	maekawatoshiki/qcc	C++	2017-04-10	MIT	qcc is a small toy C compiler
+42	yokonsan/qcc_header_sign	Python	2021-02-11	-	企查查请求头反爬破解
+42	yxhpy/qcc_plus	Go	2026-04-22	MIT	Claude Code CLI 代理服务器 - 多租户、自动故障切换、Web 管理界面
+33	Ciechan/QCCableConnections	Objective-C	2014-04-10	MIT	Cable-like connections bending for Quartz Composer
+32	duhu2000/financial-services-qcc	Python	2026-07-29	Apache-2.0	金融机构企查查MCP增强版插件 - KYB自动化核验(银行） & IC Memo全维度尽调（PE/VC投资经理）
+29	lbsmith/ProQCC	C	2021-01-09	MIT	ProQCC Quake-C compiler/decompiler
+21	canwhite/QCCrashError	Objective-C	2018-06-14	-	搜集崩溃日志，保存本地或者上传服务器都可以
+21	macoscope/QCConsole	Objective-C	2014-01-08	Apache-2.0	A logging console for your Quartz Composer compositions
+19	moyuweiqing/qcc_searchmulti	Python	2023-10-24	-	企查查高级搜索和批量查询爬虫
+19	854771076/tyc_qcc_spider	Python	2023-08-08	-	天眼查，企查查爬虫
+18	FullStaQD/qcc	C++	2026-11-13	NOASSERTION	
+17	TaKO8Ki/qcc	Rust	2022-03-04	-	[WIP] A toy C compiler written in Rust
+15	bewing0/qcc	C	2015-05-27	BSD-2-Clause	A superfast C compiler inspired by TinyCC
+15	alex-spataru/QCCTV	C++	2018-12-29	MIT	Software to create a CCTV with smart phones
+15	prakashmurali/QCCDSim	Python	2021-01-20	-	QCCD Compiler and Simulator. Paper: https://ieeexplore.ieee.org/document/9138945
+15	quic/qccsdk-qcc711	C	2025-02-18	NOASSERTION	
+14	tomhopper/qcc_ggplot	R	2017-12-30	MIT	Rewrite of plot.qcc (from the qcc package) using ggplot and grid.
+13	dongfengjia20230913/QCCamera	Java	2020-03-29	Apache-2.0	this is a Android camera project base opengles。
+12	ECNU-ILOG/QCCDM	Python	2023-08-04	MIT	[ECAI 2023] QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning
+12	hypn/quake-qcc-binaries	C	2026-03-30	-	QuakeC Compiler binaries for Linux and Windows (32bit and 64bit)
+11	wangtufly/QCCG	Go	2026-08-13	GPL-3.0	
+9	robertzhangwenjie/qcc_scrapy	Python	2021-09-11	-	
+9	skydownacai/Crawler-of-QCC	Python	2019-09-29	-	selenium和requests混合使用。一个ip可以稳定日下载企业详细信息近千条。ip被锁开vpn即可。目前使用的太阳代理ip等高匿ip都无效。部分代码是基于现实需求做的，使用需要自改，比如读企业名录文件。可以自动解决频繁滑块，模拟登录。
+8	Singhoy/QCC_LOGIN	Python	2022-02-10	GPL-3.0	企查查自动登录
+8	canwhite/QCCustomAlertViewTest	Objective-C	2018-08-20	-	写了一个自定义弹出框，纯原生，只需要一个自定义方法就可以，点击空白部分移除弹出视图

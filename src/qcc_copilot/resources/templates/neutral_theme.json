@@ -1,0 +1,23 @@
+{
+  "id": "neutral-theme",
+  "version": "1.0",
+  "note": "中性主题，不含企业视觉资产；企业主题通过替换本文件接入，不改变业务契约。",
+  "slide_size": { "width_emu": 12192000, "height_emu": 6858000 },
+  "colors": {
+    "title": "1F3864",
+    "body": "222222",
+    "background": "FFFFFF",
+    "accent": "2E75B6"
+  },
+  "fonts": {
+    "title": "Arial",
+    "body": "Arial"
+  },
+  "max_title_chars": 90,
+  "max_body_chars_per_slide": 600,
+  "editable": {
+    "text": true,
+    "tables": true,
+    "charts": "附带结构化数据底稿 chart_data.json / chart.svg"
+  }
+}

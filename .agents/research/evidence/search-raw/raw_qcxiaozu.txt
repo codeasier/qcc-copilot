@@ -1,0 +1,31 @@
+TOTAL=2393
+9572	anbeime/skill	Python	2026-11-15	NOASSERTION	收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequentl
+4990	fqscfqj/Y2A-Auto	Python	2026-10-28	GPL-3.0	YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
+3045	huangwb8/ChineseResearchLaTeX	Python	2026-11-11	MIT	中国科研常用LaTeX模板集
+2330	UnderleveledBuilder/awesome-short-drama-skills	HTML	2026-11-14	CC0-1.0	AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI shor
+2099	lixiaoxiao9888-create/manju-laoli-skill	Python	2026-11-08	MIT	漫剧老李 AIGC 创作全流程 Skill · V7.4.26 多技能套装版（Short-Drama Director Suite）：1 总控 + 12 子技能 · 四层纵深——赛道分流 / 素材采风 / 剧本 / 资产 / 分镜 / 三大打戏引擎 / 投喂 / 质检全链路。六道前置锁 + I 画风
+2085	zhuyansen/awesome-claude-video-skills	-	2026-11-14	NOASSERTION	Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.
+1982	huang-sir1/radiology-skills	Python	2026-09-21	NOASSERTION	
+1792	xavier-zy/Awesome-pytorch-list-CNVersion	Jupyter Notebook	2021-07-26	-	Awesome-pytorch-list 翻译工作进行中......
+1744	Pluviobyte/rnskill	Python	2026-09-21	NOASSERTION	雪踏乌云的 AI Agent Skills 集合
+1292	xixihhhh/clipforge	TypeScript	2026-10-26	AGPL-3.0	ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、
+1030	safe6Sec/command	-	2026-03-17	MIT	红队常用命令速查
+1020	John19187/v2ray-SSR-Clash-Verge-Shadowrocke	-	2026-06-09	-	2026年免费高速（25.6M/S）v2ray、ss、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、解锁YouTube、Netflix、TikTok、Ch
+715	ChrisChen667788/wind-comic	TypeScript	2026-11-14	MIT	Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provi
+710	Pluviobyte/video-production-skills	Python	2026-07-14	-	Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.
+625	zenstory-ai/video-recap-skills	Python	2026-11-14	MIT	AI 视频解说全流程 skill 包：自动切镜头、看画面写解说词、配音合成成片，支持一键导出可编辑的剪映/CapCut 草稿，无需 GPU ｜ Agent skills that turn videos into narrated recaps & editable CapCut drafts
+623	iBigQiang/feedgrab	Python	2026-10-24	MIT	Universal content grabber — fetch, normalize, and digest content from 7+ platforms (WeChat, XHS, X/Twitter, YouTube, Bilibili, Telegram, RSS)
+553	YongxinLiu/MicrobiomeStatPlot	HTML	2025-07-22	GPL-3.0	Interpretation and visualization of microbiome charts
+345	nutllwhy/seedance-tvc-director	-	2026-09-03	MIT	A Seedance 2.5 TVC director Skill for 15s, 30s and custom commercial video prompts, storyboards, voiceover routing and evidence-driven retakes.
+304	fofolee/uTools-quickcommand	JavaScript	2026-10-13	-	实现具备UI交互的自动化操作，支持可视化拖拽及直接编写脚本两种形式。1.可视化拖拽支持文件、网络、音视频、图片、文本、浏览器、键鼠等超过20种类型的自动化处理，2.编写脚本支持utools的api，python、js、shell、cmd等多种脚本语言。关联关键词：自动化、可视化、RPA
+301	OneMoh/html-explainer	Python	2026-11-05	MIT	把一个主题做成有配音、字幕、封面的讲解分析类视频 —— 全本地、用 HTML 写画面，稳定音画同步。 面向 AI 编程智能体的确定性 HTML → MP4 渲染流水线。
+296	wwwzhouhui/skills_collection	HTML	2026-11-11	-	本项目是个人开发的 Claude Code Skills 集合，提供实用的技能工具，助力提升开发效率和内容创作。  分享一些好用的 Claude Code Skills，自用、学习两相宜，适用于 Claude Code v2.0 及以上版本。
+282	bayshier/voicestudio-zh	Python	2026-10-24	AGPL-3.0	VoiceStudio 中文版：开源、完全本地的 ElevenLabs 替代品——语音克隆、语音设计、视频配音、听写、转写与有声书，646 种语言（译自 debpalash/VoiceStudio，AGPL-3.0）
+274	Justin-sky/ai-art-engine	TypeScript	2026-11-13	NOASSERTION	AI 艺术创作引擎，专业的短视频，游戏3D资产，2D资产，广告创作工具
+249	PerryLink/dsh-auto-review	TypeScript	2026-11-14	Apache-2.0	Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons,
+222	andrew/ultimate-awesome	-	2026-11-15	CC0-1.0	Every awesome list on every topic, including awesome lists of awesome lists, updated daily.
+219	PerryLink/dsh-industry-research	TypeScript	2026-11-13	Apache-2.0	Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tracking, compan
+214	PerryLink/dsh-research-report	TypeScript	2026-11-13	Apache-2.0	Verifiable research-report engine for DeepSeek Harness: content-addressed evidence ledger (claim-snapshot binding, tamper-evident) plus versioned seal
+211	maxazure/video-editing-skill	Python	2026-10-18	-	OpenClaw/Codex Skill: Auto video editing for talk/vlog videos — speech recognition, sentence splitting, subtitle burning, and clip merging
+201	suihe1/short-drama-production	JavaScript	2026-09-16	Apache-2.0	AI 短剧生产总控 / 短剧skill：专业导演与分镜、MiniMax H3、CompShare、声音资产、粗剪与 QC，默认 16:9。
+193	lolikonnn/weather-fighter	JavaScript	2026-11-15	AGPL-3.0	天气战士 Weather Fighter —— 老实看天气很枯燥吧？

@@ -1,0 +1,26 @@
+TOTAL=72
+28122	hcengineering/platform	TypeScript	2026-11-09	EPL-2.0	Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+2830	crbnos/carbon	TypeScript	2026-11-15	NOASSERTION	Open-source manufacturing ERP, MES and QMS. Quoting, MRP, inventory, shop floor, quality and lot/serial traceability on one Postgr
+335	s-pms/SPMS-Server	Java	2026-10-14	MIT	🔥🔥🔥S-PMS (Smart Production Management System) 智能生产管理系统 ，是一个集成化、智能化的企业级应用软件，它集成了多个核心的生产管理模块，包括 制造执行系统 (MES)、仓库管理系统 (WMS)、企业资源计划系统 (
+194	Mes-Open/OpenMes	PHP	2026-11-14	AGPL-3.0	Welcome to the OpenMes repository 👋 This project was shaped through consultations with several manufacturing companies across diff
+123	s-pms/SPMS-Web	Vue	2026-10-14	MIT	🔥🔥🔥S-PMS (Smart Production Management System) 智能生产管理系统 ，是一个集成化、智能化的企业级应用软件，它集成了多个核心的生产管理模块，包括 制造执行系统 (MES)、仓库管理系统 (WMS)、企业资源计划系统 (
+40	yuvisidhu19/Queue-Management-System	JavaScript	2025-07-26	MIT	A queue management system that aims to reduce wait time, increase comfort and prevent queue jumping.
+27	s-pms/SPMS-App	TypeScript	2025-03-28	MIT	🔥🔥🔥S-PMS (Smart Production Management System) 智能生产管理系统 ，是一个集成化、智能化的企业级应用软件，它集成了多个核心的生产管理模块，包括 制造执行系统 (MES)、仓库管理系统 (WMS)、企业资源计划系统 (
+17	AliakseiT/dearauditor-qms-baseline	Python	2026-10-28	NOASSERTION	Open-source, GitHub-native eQMS baseline for medical device and regulated software teams. Issues, PRs, Actions, and Releases form 
+8	8to5/EtQScripts-SQL	Python	2025-01-31	-	Various scripts that have been helpful in supporting the ETQ Reliance Quality Management System.
+6	esclaudio/paraiso-lite	PHP	2022-12-11	GPL-3.0	QMS (ISO 9001:2015) Software
+4	Techmentis/FlinkISO-QMS-Updates	PHP	2026-11-13	-	This repository is only to publish FlinkISO QMS updates
+4	bivex/congenial-parakeet-iso9001	Go	2025-12-30	MIT	ISO 9001:2015 Quality Management System GO SDK
+2	soypat/go-qap	Go	2022-09-12	MIT	CERN's quality assurance plan (QAP) to solve the document naming convention problem.
+2	fishacrypt/QPouch	CSS	2026-10-10	-	QPouch is a self-custody browser wallet for the QMS Testnet. It lets you hold testnet QMS, send and receive it, and connect to QMS
+2	ishandutta2007/Awesome-Manufacturing-Quality-Management	-	2026-11-07	MIT	Top Manufacturing Quality Management (QMS) (Opensource) 🌟 Star if you like it! 🌟
+2	mreimitz/qccl.qmsservice	C#	2018-03-27	MIT	The qccl.qmsservice is a REST WebService that serves as wrapper for the QlikView Server QMS API interface. In addition to the web 
+2	sw1313/rk3588-playback-fix	C	2026-10-20	MIT	RK3588 播放、显示与游戏图形的可回退升级：Codec2/MPP、AFBC、十位 HDR、帧率匹配/QMS、Mali GPU/KMD/CSF 与播放器修复。Firmware-pinned Android 12 modules with per-featur
+1	hsdt/checkin	CSS	2023-01-07	Apache-2.0	Smart Queue Management System
+1	rizzit17/pharmassist	Python	2026-10-20	-	Enterprise AI-driven Quality Management System (QMS) for pharmaceutical manufacturing. Features a multi-node LangGraph intake copi
+1	Erwinya/lot-metrics	Python	2026-11-05	MIT	Python CLI for lot/inspection CSV aggregation and MAD outlier flags
+1	Erwinya/lot-viewer	JavaScript	2026-11-05	MIT	Browser viewer for lot inspection CSV metrics and MAD outlier flags
+1	jchademwiri/sheq-os	-	2026-08-06	MIT	An open-source, Markdown-based operating system for Health, Safety, Environment, and Quality (SHEQ) compliance and ISO implementat
+1	cgs123456/ZhiCloud-Enterprise-Platform	Java	2026-10-21	MIT	智云·企业数字化平台：ERP/MES/WMS/QMS/CRM/HR/OA/TMS 八大业务域 + 多租户 RBAC、工作流与 AI 能力
+1	tertiarycourses/TGS-2023039341-ISO-9001-Quality-Management-System-QMS-Internal-Auditor-Training	-	2026-10-20	-	WSQ ISO 9001 QMS Internal Auditor Training (TGS-2023039341), 2 days: slides, Learner Guide, Lesson Plan and 8 audit activities.
+1	Erwinya/ncr-console	JavaScript	2026-11-09	MIT	Browser console for NCR create/list/status against qms-ncr-service

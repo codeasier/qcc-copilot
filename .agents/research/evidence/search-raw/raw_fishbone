@@ -1,0 +1,26 @@
+TOTAL=28
+9	hophiphip/react-fishbone	TypeScript	2025-02-05	MIT	React fishbone (Ishikawa) diagram component.
+4	JetBrains-Research/fishbone	JavaScript	2026-07-23	MIT	Fishbone Ishikawa diagrams construction and visualising
+3	umitgunduz/d3-fishbone-angular	JavaScript	2016-06-21	-	This is a Fishbone or Ishikawa diagram Angular directive, which shows contributions of different levels of a hierarchy to a main c
+1	abhi735284/Ishikawa-Fishbone-App-	Python	2025-10-13	-	A Python-based interactive desktop application to visualize **Ishikawa (Fishbone) Diagrams** using Excel data. The app combines **
+1	alfredang/fishbone	HTML	2026-03-30	-	Interactive Fishbone (Ishikawa) Diagram tool for practicing Root Cause Analysis — built for Six Sigma learners
+0	sunrist1/MakFishBone	-	2019-05-03	WTFPL	Ishikawa、FishBone、鱼骨图、因果图
+0	distillainthemist/FishbonePCF	-	2026-07-04	MIT	PCF for a Fishbone/Ishikawa diagram in PowerApps
+0	petersk8008/fishbone-diagram	TypeScript	2025-08-28	-	A full stack application for building Ishikawa Diagrams
+0	fjgonzalezmgt/ishikawa	Python	2026-04-13	NOASSERTION	Ishikawa/fishbone diagram tools for root-cause analysis and quality improvement.
+0	brianzinn/react-fishbone	TypeScript	2019-07-19	MIT	Fishbone / Ishikawa diagrams.  Useful for Root Cause Analysis (RCA)
+0	expectedparrot/ishikawa	Python	2026-09-11	-	Structured cause-and-effect analysis and fishbone diagrams with an agent-friendly Python CLI
+0	tusuii/ishikawa-RCA	Python	2026-03-16	-	Ishikawa RCA Streamlit python application
+0	jimbarcos/Fishbone-Ishikawa-Diagram-Generator	Python	2024-09-04	MIT	An automatic generator of a fishbone diagram based on the excel import.
+0	VitaPasser/ishikawadiagram	Python	2026-03-05	MIT	A library for creating dynamic Ishikawa diagrams (fishbone diagrams) in Python.
+0	ToyoShuya/fishbone-diagram-wpf	-	2026-09-11	-	A WPF application for creating and editing fishbone (Ishikawa) diagrams with interactive branch management
+0	eslawski/fishbone-diagram-creator	TypeScript	2025-12-31	-	A full-stack application for creating and managing fishbone (Ishikawa) diagrams with a React frontend and Express.js backend.
+0	joshuagodwin/Ai-Ishikawa-Diagram-Builder	Python	2024-06-01	-	Have Ai help you build a Ishikawa (also known as Fishbone or Cause and Effect) diagram
+0	Ovisha466/Interactive-Fishbone-Diagram-Generator	Python	2026-07-29	MIT	Interactive Python application for automated Root Cause Analysis using dynamic Fishbone (Ishikawa) diagrams built with Tkinter and
+0	RodolfoGaspary/Ishikawa-Creator	HTML	2026-09-09	-	Root-cause analysis without drawing a fishbone. Same information as an Ishikawa   diagram, held as a nested structure and saved as
+0	SouravNeatC/fishbone-analysis-visual-powerbi	TypeScript	2026-05-16	MIT	A fully dynamic Fishbone (Ishikawa) Analysis custom visual for Power BI built using TypeScript and D3.js, featuring responsive lay
+0	FreeSPC-nhs/Fishbone-tool	JavaScript	2025-12-15	-	This project provides a free, web-based fishbone (Ishikawa) diagram tool that lets users define problems, customise categories and
+0	quality-pixel/Rootcause-analysis3	JavaScript	2026-04-15	-	Interactive quality engineering tool for creating Fishbone (Ishikawa) diagrams, performing 5 Whys analysis, and generating structu
+0	Pakawat-Dev/Root_Cause_Analysis_Langgraph	Python	2025-09-15	MIT	A beginner-friendly tool for systematic problem analysis using AI-powered Fishbone Diagrams (also known as Ishikawa Diagrams).
+0	quality-pixel/Rootcause-analysis4	JavaScript	2026-04-16	-	Interactive quality engineering tool for creating Fishbone (Ishikawa) diagrams, performing 5 Whys analysis, and generating structu
+0	quality-pixel/Rootcause-analysis-1	-	2026-04-15	-	Interactive quality engineering tool for creating Fishbone (Ishikawa) diagrams, performing 5 Whys analysis, and generating structu

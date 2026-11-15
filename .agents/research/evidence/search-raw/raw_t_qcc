@@ -1,0 +1,14 @@
+TOTAL=13
+48	kenithgrey/ggQC	R	2020-10-01	GPL-3.0	ggQC
+5	Henrique194/quake-tools	C++	2025-06-30	-	This project is a modern C++ port of the original Quake development tools, aiming for improved portability and maintainability.
+5	duhu2000/qcc-mcp-oauth	JavaScript	2026-11-09	MIT	DeepSeek Harness 插件：一键 OAuth 授权连接企查查（Qichacha）MCP 服务 / One-click OAuth connect to Qichacha MCP services for DeepSeek Harness
+3	fjpolo/Qualcomm_QCC51xx-OpenSourceCapabilities	-	2024-06-17	MIT	Qualcomm QCC51xx Open Source Capability Library
+3	duhu2000/qcc-mcp-legal-oauth	JavaScript	2026-11-09	MIT	DeepSeek Harness 插件：一键 OAuth 授权连接企查查法律数据 MCP（法律产品：法规/案例） / One-click OAuth connect to Qichacha legal-data MCP (regulation & case) 
+2	duhu2000/dsh-form-fill-agent	JavaScript	2026-09-18	MIT	AI form filling and spreadsheet autofill for XLSX in DeepSeek Harness, using authorized Qichacha MCP facts with cell previews, use
+2	zhanglunet/qcc	HTML	2026-06-10	Apache-2.0	企查查 Agent MCP 一站式接入 — Python + TypeScript 客户端 + 8 个 KYB / 尽调 / 风控工作流 skill,覆盖 146 个 MCP tool,支持 Claude Code / OpenClaw / Hermes / 
+0	Mansitos/QCC-R-Package-Review_AppliedStatistics	HTML	2022-11-02	-	A review of an R-Package for statistical QCC (Quality Control Charts).
+0	Ashinpm/vsomeip-qnx-7.1	C++	2026-09-24	MPL-2.0	Porting vsomeip-3.7.4 on QNX 7.1
+0	Sofigf/continuous-improvement-opex	-	2026-07-17	-	
+0	code-help-tutor/QCC-Quantum-Computing-	-	2024-03-26	-	QCC Computing 代写代做 编程辅导, code help, CS tutor, WeChat: cstutorcs Email: tutorcs@163.com
+0	code-help-tutor/QCC-Quantum-Computing-Course	-	2024-02-15	-	QCC Computing 辅导, code help, CS tutor, WeChat: cstutorcs Email: tutorcs@163.com
+0	JYSN/QCC_trello_cli	Python	2021-03-30	-	A small commandline utility for using Trello

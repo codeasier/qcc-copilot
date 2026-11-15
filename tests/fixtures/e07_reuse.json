@@ -1,0 +1,19 @@
+{
+  "common_problem": "多平台构建环境差异导致失败（同类团队可能存在）",
+  "value_basis": "减少重复构建与排查（假设，待验证）",
+  "beneficiaries": ["其它多平台产出团队"],
+  "constraints": ["统一构建镜像", "发起人个人设备上的专用缓存配置"],
+  "depends_on_personal_infra": true,
+  "adoption_records": [
+    { "team": "团队A", "status": "installed", "effect_feedback": null },
+    { "team": "团队B", "status": "adopted", "effect_feedback": "周均减少 3 次重复构建，有使用记录" }
+  ],
+  "tool_usability_gain": { "note": "Skill 帮助成员少花 2 小时整理材料", "metric": "member_tool_time_saved_hours", "value": 2 },
+  "expectations": {
+    "potential_vs_adopted_separate": true,
+    "installed_not_adopted": true,
+    "personal_infra_flagged": true,
+    "tool_usability_not_reusability_evidence": true,
+    "distinct_adopted_teams": 1
+  }
+}

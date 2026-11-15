@@ -1,0 +1,15 @@
+TOTAL=14
+4	WolfgangFahl/DMAICBootstrapPaper	TeX	2026-08-17	-	DMAIC Bootstrap - paper on LLM agent behavior under instructions, rules and knowledge-graph grounding (infrastructure + empty skel
+2	psptpx/DMAIC-Bench	Python	2026-10-31	AGPL-3.0	DMAIC-Bench: self-restraint for agents in multi-stage analytical tasks. Code, generated corpus, evaluation tools and paper sources
+1	BathSalt-2/architech-chronos-prod	Python	2026-02-23	MIT	Architech Chronos — Quantum-inspired temporal AI architecture for mobile deployment. MPS compression, DMAIC ethics, LoRA adapters,
+0	brunodt98/DMAIC-Agent	Python	2026-09-29	-	Agente de consultoria Six Sigma (DMAIC) em Python/Streamlit, com exportação do plano de ação para Word
+0	EduReyeshub/dmaic-intelligence-agent	-	2026-07-28	-	AI agent for DMAIC methodology · LSS + ICH Q9(R1) + HITL · Built with context engineering
+0	ProfitDrivenMarketing/dmaic-measure-agent-starter	Python	2025-08-13	-	
+0	lalalumputan/dmaic-copilot	Python	2026-11-01	-	Agentic AI Companion for DMAIC Lean Six Sigma
+0	walterkken/popular-process-skills	Python	2026-08-13	NOASSERTION	Agent skills for popular work processes: GTD, OKR, PDSA, DMAIC, Design Thinking, Lean Startup, OODA, and research paper writing.
+0	oliviakey-oliviasmuse/control-plan-builder	-	2026-07-02	MIT	AI agent skill for building Lean Six Sigma Process Control Plans — SPC analysis, control limit calculation, reaction protocols, an
+0	TallGibbs/race-engineer-adaptive-harness	Python	2026-10-02	MIT	Race Engineer Adaptive Harness: a race engineer agent inside a self-improving harness, built at the MongoDB NYC hackathon
+0	gstrafacci/excelencia-operacional-ai	JavaScript	2026-09-08	MIT	Guia de prompts, skills especialistas e agentes de IA para consultoria e treinamentos em Lean, Lean Seis Sigma, Kaizen, Benchmarki
+0	AbiTonia26/hclsskm-platform	Python	2026-08-02	-	Usable platform demonstrating the HCLSS-KM framework ; an integrated Lean Six Sigma and Knowledge Management system for packaging 
+0	AbiTonia26/HCLSS-KM-PLATFORM	Python	2026-08-03	-	Usable platform demonstrating the HCLSS-KM framework ; an integrated Lean Six Sigma and Knowledge Management system for packaging 
+0	aniruddhabasu1985-tech/sunsetiq-ai	Python	2026-10-02	MIT	Governed legacy-application retirement planning: dependency-aware sequencing, human-only decommission approvals (no agent gets irr

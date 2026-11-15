@@ -1,0 +1,43 @@
+{
+  "_note": "独立参考值：由人工按 PRD 4.3 公式核算，不调用产品计算函数，用于检验计算工具正确性。",
+  "person_day": {
+    "inputs": {
+      "event_count": 40,
+      "baseline_hours_per_event": 0.5,
+      "improved_hours_per_event": 0.25,
+      "attributable_cost_hours": 2,
+      "hours_per_person_day": 8,
+      "time_kind": "human_operation"
+    },
+    "reference": {
+      "gross_hours": 10.0,
+      "net_hours": 8.0,
+      "net_person_days": 1.0,
+      "formula": "gross = 40*(0.5-0.25)=10; net = 10-2=8; person_days = 8/8=1"
+    }
+  },
+  "person_day_negative": {
+    "inputs": {
+      "event_count": 40,
+      "baseline_hours_per_event": 0.5,
+      "improved_hours_per_event": 0.25,
+      "attributable_cost_hours": 12,
+      "hours_per_person_day": 8,
+      "time_kind": "human_operation"
+    },
+    "reference": {
+      "gross_hours": 10.0,
+      "net_hours": -2.0,
+      "net_person_days": -0.25,
+      "formula": "net = 10-12=-2; person_days = -2/8=-0.25"
+    }
+  },
+  "coverage_ratio": {
+    "inputs": { "numerator": 85, "denominator": 100, "unit": "percent" },
+    "reference": { "value": 0.85, "percent": 85.0 }
+  },
+  "zero_denominator": {
+    "inputs": { "numerator": 5, "denominator": 0, "unit": "percent" },
+    "reference": { "computable": false, "reason": "zero denominator" }
+  }
+}

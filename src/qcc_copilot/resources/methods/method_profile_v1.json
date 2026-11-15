@@ -1,0 +1,29 @@
+{
+  "id": "qcc-three-dimensions",
+  "version": "1.0",
+  "schema_version": "1.0",
+  "name": "三维评奖视角初始规则包",
+  "basis": "用户确认的 C08 三项核心评奖视角（明确收益、成果可推广性、QCC 方法与材料逻辑完整性）",
+  "source_note": "部门初始要求 + 明确标注的通用 PDCA/问题解决方法参考；不是官方评分标准。",
+  "official_scoring_configured": false,
+  "weight_note": "权重未定；未配置正式评奖条目，工具不生成官方得分、权重或获奖概率。",
+  "dimensions": [
+    { "id": "value", "name": "明确收益", "checks": ["可比口径", "基线/周期/单位", "成本与净收益", "实测与预测分离"] },
+    { "id": "reuse", "name": "成果可推广性", "checks": ["共性痛点", "适用条件", "接入维护成本", "复现与实际采用证据"] },
+    { "id": "method", "name": "QCC 方法与材料逻辑", "checks": ["问题-原因-对策-效果关联", "要因验证", "阶段关系", "材料同源一致"] }
+  ],
+  "universality_warning": "固定十一阶段、特定鱼骨分类或某个项目的强制页面链不作为所有课题的统一标准；依课题与适用条件判断是否采用。",
+  "stages": [
+    { "id": "topic", "name": "选题与现状", "requires": ["问题陈述", "受益对象"] },
+    { "id": "baseline", "name": "基线与目标", "requires": ["基线指标", "目标值", "计量单位"] },
+    { "id": "cause", "name": "原因假设与要因验证", "requires": ["原因假设", "要因验证记录"] },
+    { "id": "countermeasure", "name": "对策与实施", "requires": ["对策", "实施记录"] },
+    { "id": "effect", "name": "效果验证", "requires": ["改善后指标", "与基线可比"] },
+    { "id": "standardize", "name": "标准化与复用", "requires": ["标准化动作", "复用说明"] }
+  ],
+  "causal_rule": "相关性、投票或原因评分不单独构成因果验证；需现场或工程验证记录。",
+  "applicability": {
+    "default": "按当前事实进入相应阶段，允许回溯、分支与有依据的不适用说明",
+    "structure_vs_evidence": "结构完整性与证据充分性分别判断，不以页面数量证明过程完成"
+  }
+}

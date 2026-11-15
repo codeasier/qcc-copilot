@@ -1,0 +1,17 @@
+{
+  "type": "feedback",
+  "version": "1.0",
+  "id_field": "feedback_id",
+  "description": "负责人反馈：带作者、标识与目标修订，仅作为建议/待办",
+  "required": {
+    "schema_version": "str",
+    "feedback_id": "str",
+    "topic_id": "str",
+    "target_revision": "int",
+    "author": "str",
+    "content": "str",
+    "created_at": "str"
+  },
+  "optional": {},
+  "enums": {}
+}

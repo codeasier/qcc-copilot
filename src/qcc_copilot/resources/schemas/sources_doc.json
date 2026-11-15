@@ -1,0 +1,15 @@
+{
+  "type": "sources_doc",
+  "version": "1.0",
+  "id_field": null,
+  "description": "来源索引与覆盖结果：已读、未读、失败、截断分别记录",
+  "required": {
+    "schema_version": "str",
+    "sources": "list",
+    "coverage": "dict"
+  },
+  "optional": {
+    "requested_scope": "list"
+  },
+  "enums": {}
+}
